@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: 0c1c83f4db0b0884c990a7853fb3575b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8169480702394984363
+    second: squad-insignia_0
+  - first:
+      213: 7497835252902695022
+    second: squad-insignia_1
+  - first:
+      213: -8470978456678181230
+    second: squad-insignia_2
+  - first:
+      213: -8554038206723419920
+    second: squad-insignia_3
+  - first:
+      213: 5432953388481460725
+    second: squad-insignia_4
+  - first:
+      213: 4323900490433075525
+    second: squad-insignia_5
+  - first:
+      213: 7900359665211912026
+    second: squad-insignia_6
+  - first:
+      213: 3267888470117619191
+    second: squad-insignia_7
+  - first:
+      213: 611752947888591294
+    second: squad-insignia_8
+  - first:
+      213: -3713390225632039600
+    second: squad-insignia_9
+  - first:
+      213: 7438426265428998109
+    second: squad-insignia_10
+  - first:
+      213: -7536910116048033951
+    second: squad-insignia_11
+  - first:
+      213: -7502244723639160527
+    second: squad-insignia_12
+  - first:
+      213: -1030945994385056172
+    second: squad-insignia_13
+  - first:
+      213: 8174336900372462920
+    second: squad-insignia_14
+  - first:
+      213: -3942963824155108201
+    second: squad-insignia_15
+  - first:
+      213: 7239188109396234640
+    second: squad-insignia_16
+  - first:
+      213: 1231834726912197192
+    second: squad-insignia_17
+  - first:
+      213: 1950143264700743086
+    second: squad-insignia_18
+  - first:
+      213: -3809108038638053768
+    second: squad-insignia_19
+  - first:
+      213: 2146179063808577609
+    second: squad-insignia_20
+  - first:
+      213: 1253108587955507379
+    second: squad-insignia_21
+  - first:
+      213: -7151751351381482826
+    second: squad-insignia_22
+  - first:
+      213: 4740853992724734592
+    second: squad-insignia_23
+  - first:
+      213: 6298182658084545445
+    second: squad-insignia_24
+  - first:
+      213: -9035178579665721234
+    second: squad-insignia_25
+  - first:
+      213: 141835040308836374
+    second: squad-insignia_26
+  - first:
+      213: -547516077632496444
+    second: squad-insignia_27
+  - first:
+      213: 6511913912530201283
+    second: squad-insignia_28
+  - first:
+      213: 4403781397682459392
+    second: squad-insignia_29
+  - first:
+      213: -8700156100877801239
+    second: squad-insignia_30
+  - first:
+      213: -7240791446122525649
+    second: squad-insignia_31
+  - first:
+      213: 1673969129361925194
+    second: squad-insignia_32
+  - first:
+      213: 2541211143877558405
+    second: squad-insignia_33
+  - first:
+      213: 4452161964690151017
+    second: squad-insignia_34
+  - first:
+      213: -7751845026503931894
+    second: squad-insignia_35
+  - first:
+      213: 5759372852216539004
+    second: squad-insignia_36
+  - first:
+      213: 6960096160875435899
+    second: squad-insignia_37
+  - first:
+      213: -8833083122608912704
+    second: squad-insignia_38
+  - first:
+      213: -7809995086850969972
+    second: squad-insignia_39
+  - first:
+      213: 3567130734312784276
+    second: squad-insignia_40
+  - first:
+      213: -6023756274429854058
+    second: squad-insignia_41
+  - first:
+      213: -1360416376308232547
+    second: squad-insignia_42
+  - first:
+      213: -2367945062439359508
+    second: squad-insignia_43
+  - first:
+      213: -197768609650778202
+    second: squad-insignia_44
+  - first:
+      213: 3719068900677748864
+    second: squad-insignia_45
+  - first:
+      213: 110431491027601615
+    second: squad-insignia_46
+  - first:
+      213: 6879861258240520583
+    second: squad-insignia_47
+  - first:
+      213: 2719772214229013173
+    second: squad-insignia_48
+  - first:
+      213: -8011111622765124421
+    second: squad-insignia_49
+  - first:
+      213: 5355393046808191127
+    second: squad-insignia_50
+  - first:
+      213: 8486435214188009179
+    second: squad-insignia_51
+  - first:
+      213: 5289185487132470404
+    second: squad-insignia_52
+  - first:
+      213: 1134822855211218527
+    second: squad-insignia_53
+  - first:
+      213: -1320934083363557588
+    second: squad-insignia_54
+  - first:
+      213: -833069575638519673
+    second: squad-insignia_55
+  - first:
+      213: -2675407153118106277
+    second: squad-insignia_56
+  - first:
+      213: -3453927111310198209
+    second: squad-insignia_57
+  - first:
+      213: -4671428421457158344
+    second: squad-insignia_58
+  - first:
+      213: -3217921448093020480
+    second: squad-insignia_59
+  - first:
+      213: -5091082025684915111
+    second: squad-insignia_60
+  - first:
+      213: 4344491846770519856
+    second: squad-insignia_61
+  - first:
+      213: 1322974905482947431
+    second: squad-insignia_62
+  - first:
+      213: 6369638938412297057
+    second: squad-insignia_63
+  - first:
+      213: -5365374941938816034
+    second: squad-insignia_64
+  - first:
+      213: -7112128245124185119
+    second: squad-insignia_65
+  - first:
+      213: 1336506173485323631
+    second: squad-insignia_66
+  - first:
+      213: 7890985156958973767
+    second: squad-insignia_67
+  - first:
+      213: -2360332337033309451
+    second: squad-insignia_68
+  - first:
+      213: -4637453914280701625
+    second: squad-insignia_69
+  - first:
+      213: -8839198209479172511
+    second: squad-insignia_70
+  - first:
+      213: -732202297724944656
+    second: squad-insignia_71
+  - first:
+      213: 7297358750075856770
+    second: squad-insignia_72
+  - first:
+      213: 4358120387930949760
+    second: squad-insignia_73
+  - first:
+      213: 6693143611690349196
+    second: squad-insignia_74
+  - first:
+      213: -7446054807199500935
+    second: squad-insignia_75
+  - first:
+      213: 6273393174827830590
+    second: squad-insignia_76
+  - first:
+      213: 2654748363176146442
+    second: squad-insignia_77
+  - first:
+      213: 5401823182478609967
+    second: squad-insignia_78
+  - first:
+      213: -8203143191245777117
+    second: squad-insignia_79
+  - first:
+      213: -7167662624162236919
+    second: squad-insignia_80
+  - first:
+      213: 7511940403625109944
+    second: squad-insignia_81
+  - first:
+      213: 456045896183225351
+    second: squad-insignia_82
+  - first:
+      213: -7331408475767252837
+    second: squad-insignia_83
+  - first:
+      213: 7478066846340058229
+    second: squad-insignia_84
+  - first:
+      213: -3285372746302621790
+    second: squad-insignia_85
+  - first:
+      213: 955379184984595080
+    second: squad-insignia_86
+  - first:
+      213: 8371446036414495780
+    second: squad-insignia_87
+  - first:
+      213: 4458660058310744093
+    second: squad-insignia_88
+  - first:
+      213: 3595749529193547745
+    second: squad-insignia_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squad-insignia_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba769a14a63df5170800000000000000
+      internalID: 8169480702394984363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 193
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e609aa1ff69ad0860800000000000000
+      internalID: 7497835252902695022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 193
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d5bd89f9017a80800000000000000
+      internalID: -8470978456678181230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 193
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0912d7293f94980800000000000000
+      internalID: -8554038206723419920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 193
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f931b1625ab56b40800000000000000
+      internalID: 5432953388481460725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54996684694910c30800000000000000
+      internalID: 4323900490433075525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa7c2f147b3ad60800000000000000
+      internalID: 7900359665211912026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f594f2ef3fd95d20800000000000000
+      internalID: 3267888470117619191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1923d90126d7800800000000000000
+      internalID: 611752947888591294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d6bc0a343677cc0800000000000000
+      internalID: -3713390225632039600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 169
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7b4d627499a3760800000000000000
+      internalID: 7438426265428998109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 169
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a8e48e24876790800000000000000
+      internalID: -7536910116048033951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 169
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13170752c2ca2e790800000000000000
+      internalID: -7502244723639160527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 169
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e111e841851b1f0800000000000000
+      internalID: -1030945994385056172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 169
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d7115f914117170800000000000000
+      internalID: 8174336900372462920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 167
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cd40bea47c749c0800000000000000
+      internalID: -3942963824155108201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 167
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0915bca0b33c67460800000000000000
+      internalID: 7239188109396234640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 167
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8428797582b581110800000000000000
+      internalID: 1231834726912197192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 167
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadbb9987fc401b10800000000000000
+      internalID: 1950143264700743086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 167
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876d4ed9b64532bc0800000000000000
+      internalID: -3809108038638053768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940d0b2dc72c8cd10800000000000000
+      internalID: 2146179063808577609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0541a1f9fe36110800000000000000
+      internalID: 1253108587955507379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2acfa9900efbc90800000000000000
+      internalID: -7151751351381482826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082a9589695eac140800000000000000
+      internalID: 4740853992724734592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a7a122c3a76750800000000000000
+      internalID: 6298182658084545445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e686ec4c3f89c9280800000000000000
+      internalID: -9035178579665721234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618bf4ab736e7f100800000000000000
+      internalID: 141835040308836374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc56eb3705d668f0800000000000000
+      internalID: -547516077632496444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca694ca337fe5a50800000000000000
+      internalID: 6511913912530201283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003165559df5d1d30800000000000000
+      internalID: 4403781397682459392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 121
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82bb42f16d24780800000000000000
+      internalID: -8700156100877801239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 121
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c0e290b8a838b90800000000000000
+      internalID: -7240791446122525649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 121
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a446698dd022b3710800000000000000
+      internalID: 1673969129361925194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 121
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580061a4212344320800000000000000
+      internalID: 2541211143877558405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 121
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9669cd3e7b149cd30800000000000000
+      internalID: 4452161964690151017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 119
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08ca59f40aeb6490800000000000000
+      internalID: -7751845026503931894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 119
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77256938176def40800000000000000
+      internalID: 5759372852216539004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 119
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775a87059a379060800000000000000
+      internalID: 6960096160875435899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 119
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6c56d13b59a6580800000000000000
+      internalID: -8833083122608912704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 119
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ea3bef8d25d9390800000000000000
+      internalID: -7809995086850969972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491871ed08ef08130800000000000000
+      internalID: 3567130734312784276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 97
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef3196591576ca0800000000000000
+      internalID: -6023756274429854058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e06877384de1de0800000000000000
+      internalID: -1360416376308232547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 97
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb69a9f28e532fd0800000000000000
+      internalID: -2367945062439359508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afda025f72614df0800000000000000
+      internalID: -197768609650778202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888910f579cc9330800000000000000
+      internalID: 3719068900677748864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc887b22bd4588100800000000000000
+      internalID: 110431491027601615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781f5610d5d2a7f50800000000000000
+      internalID: 6879861258240520583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 95
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2191b3b629eb520800000000000000
+      internalID: 2719772214229013173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 95
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e41d7c60d2d090800000000000000
+      internalID: -8011111622765124421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790699b1a9d225a40800000000000000
+      internalID: 5355393046808191127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_51
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 73
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6da0f3ddfd5c570800000000000000
+      internalID: 8486435214188009179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 73
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48caeaf5d26f66940800000000000000
+      internalID: 5289185487132470404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 73
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56fbdfcf53bfbf00800000000000000
+      internalID: 1134822855211218527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fa86523791bade0800000000000000
+      internalID: -1320934083363557588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 71
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78071ee72a75074f0800000000000000
+      internalID: -833069575638519673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d2bd08e5b0fdad0800000000000000
+      internalID: -2675407153118106277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 71
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab34a879f2110d0800000000000000
+      internalID: -3453927111310198209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_58
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fd169d990cb2fb0800000000000000
+      internalID: -4671428421457158344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 71
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce0e430e75a753d0800000000000000
+      internalID: -3217921448093020480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95caca01fd7d859b0800000000000000
+      internalID: -5091082025684915111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 49
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f6658015cba4c30800000000000000
+      internalID: 4344491846770519856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 49
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b2118caa62c5210800000000000000
+      internalID: 1322974905482947431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_63
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 49
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16baf8fddd0856850800000000000000
+      internalID: 6369638938412297057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 49
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb64f2daeb5a85b0800000000000000
+      internalID: -5365374941938816034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 47
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c950fa05ac4d90800000000000000
+      internalID: -7112128245124185119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6595be98493c8210800000000000000
+      internalID: 1336506173485323631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 47
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f6b682139628d60800000000000000
+      internalID: 7890985156958973767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 47
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2134bbe3a6e3fd0800000000000000
+      internalID: -2360332337033309451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 47
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741dd093c3474afb0800000000000000
+      internalID: -4637453914280701625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e99b08f0cd45580800000000000000
+      internalID: -8839198209479172511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_71
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe316cb3e1b6d5f0800000000000000
+      internalID: -732202297724944656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 25
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2872cd0ce1d654560800000000000000
+      internalID: 7297358750075856770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_73
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 25
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088030b07672b7c30800000000000000
+      internalID: 4358120387930949760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 25
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c827a7d27a2d2ec50800000000000000
+      internalID: 6693143611690349196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_75
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 23
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975b8ce8a9c4aa890800000000000000
+      internalID: -7446054807199500935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 23
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d09f9cad19f0750800000000000000
+      internalID: 6273393174827830590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_77
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 23
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f923229f87d420800000000000000
+      internalID: 2654748363176146442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 23
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e8b1b709127fa40800000000000000
+      internalID: 5401823182478609967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_79
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 23
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327912ccab4982e80800000000000000
+      internalID: -8203143191245777117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90637f8b1d8578c90800000000000000
+      internalID: -7167662624162236919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_81
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9aaf34ff5cf3860800000000000000
+      internalID: 7511940403625109944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c964b8353345600800000000000000
+      internalID: 456045896183225351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_83
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98da92b5da914a90800000000000000
+      internalID: -7331408475767252837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_84
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c89be1d2e67c760800000000000000
+      internalID: 7478066846340058229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7f1e5d4e20862d0800000000000000
+      internalID: -3285372746302621790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a1fc29e40324d00800000000000000
+      internalID: 955379184984595080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c76d8f0d95d2470800000000000000
+      internalID: 8371446036414495780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1895d533b750ed30800000000000000
+      internalID: 4458660058310744093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squad-insignia_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e70cdc452ba6e130800000000000000
+      internalID: 3595749529193547745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squad-insignia_0: 8169480702394984363
+      squad-insignia_1: 7497835252902695022
+      squad-insignia_10: 7438426265428998109
+      squad-insignia_11: -7536910116048033951
+      squad-insignia_12: -7502244723639160527
+      squad-insignia_13: -1030945994385056172
+      squad-insignia_14: 8174336900372462920
+      squad-insignia_15: -3942963824155108201
+      squad-insignia_16: 7239188109396234640
+      squad-insignia_17: 1231834726912197192
+      squad-insignia_18: 1950143264700743086
+      squad-insignia_19: -3809108038638053768
+      squad-insignia_2: -8470978456678181230
+      squad-insignia_20: 2146179063808577609
+      squad-insignia_21: 1253108587955507379
+      squad-insignia_22: -7151751351381482826
+      squad-insignia_23: 4740853992724734592
+      squad-insignia_24: 6298182658084545445
+      squad-insignia_25: -9035178579665721234
+      squad-insignia_26: 141835040308836374
+      squad-insignia_27: -547516077632496444
+      squad-insignia_28: 6511913912530201283
+      squad-insignia_29: 4403781397682459392
+      squad-insignia_3: -8554038206723419920
+      squad-insignia_30: -8700156100877801239
+      squad-insignia_31: -7240791446122525649
+      squad-insignia_32: 1673969129361925194
+      squad-insignia_33: 2541211143877558405
+      squad-insignia_34: 4452161964690151017
+      squad-insignia_35: -7751845026503931894
+      squad-insignia_36: 5759372852216539004
+      squad-insignia_37: 6960096160875435899
+      squad-insignia_38: -8833083122608912704
+      squad-insignia_39: -7809995086850969972
+      squad-insignia_4: 5432953388481460725
+      squad-insignia_40: 3567130734312784276
+      squad-insignia_41: -6023756274429854058
+      squad-insignia_42: -1360416376308232547
+      squad-insignia_43: -2367945062439359508
+      squad-insignia_44: -197768609650778202
+      squad-insignia_45: 3719068900677748864
+      squad-insignia_46: 110431491027601615
+      squad-insignia_47: 6879861258240520583
+      squad-insignia_48: 2719772214229013173
+      squad-insignia_49: -8011111622765124421
+      squad-insignia_5: 4323900490433075525
+      squad-insignia_50: 5355393046808191127
+      squad-insignia_51: 8486435214188009179
+      squad-insignia_52: 5289185487132470404
+      squad-insignia_53: 1134822855211218527
+      squad-insignia_54: -1320934083363557588
+      squad-insignia_55: -833069575638519673
+      squad-insignia_56: -2675407153118106277
+      squad-insignia_57: -3453927111310198209
+      squad-insignia_58: -4671428421457158344
+      squad-insignia_59: -3217921448093020480
+      squad-insignia_6: 7900359665211912026
+      squad-insignia_60: -5091082025684915111
+      squad-insignia_61: 4344491846770519856
+      squad-insignia_62: 1322974905482947431
+      squad-insignia_63: 6369638938412297057
+      squad-insignia_64: -5365374941938816034
+      squad-insignia_65: -7112128245124185119
+      squad-insignia_66: 1336506173485323631
+      squad-insignia_67: 7890985156958973767
+      squad-insignia_68: -2360332337033309451
+      squad-insignia_69: -4637453914280701625
+      squad-insignia_7: 3267888470117619191
+      squad-insignia_70: -8839198209479172511
+      squad-insignia_71: -732202297724944656
+      squad-insignia_72: 7297358750075856770
+      squad-insignia_73: 4358120387930949760
+      squad-insignia_74: 6693143611690349196
+      squad-insignia_75: -7446054807199500935
+      squad-insignia_76: 6273393174827830590
+      squad-insignia_77: 2654748363176146442
+      squad-insignia_78: 5401823182478609967
+      squad-insignia_79: -8203143191245777117
+      squad-insignia_8: 611752947888591294
+      squad-insignia_80: -7167662624162236919
+      squad-insignia_81: 7511940403625109944
+      squad-insignia_82: 456045896183225351
+      squad-insignia_83: -7331408475767252837
+      squad-insignia_84: 7478066846340058229
+      squad-insignia_85: -3285372746302621790
+      squad-insignia_86: 955379184984595080
+      squad-insignia_87: 8371446036414495780
+      squad-insignia_88: 4458660058310744093
+      squad-insignia_89: 3595749529193547745
+      squad-insignia_9: -3713390225632039600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

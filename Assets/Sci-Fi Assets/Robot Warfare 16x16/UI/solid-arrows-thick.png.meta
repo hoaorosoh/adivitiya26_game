@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: cdc762279f6be3c4d8b58c8f6acaf0d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1420284898193985518
+    second: solid-arrows-thick_0
+  - first:
+      213: 8355976987694868189
+    second: solid-arrows-thick_1
+  - first:
+      213: 4657144522196888222
+    second: solid-arrows-thick_2
+  - first:
+      213: 6129267190239930908
+    second: solid-arrows-thick_3
+  - first:
+      213: -258221985918931457
+    second: solid-arrows-thick_4
+  - first:
+      213: -8772129272936717465
+    second: solid-arrows-thick_5
+  - first:
+      213: 4611109814438055216
+    second: solid-arrows-thick_6
+  - first:
+      213: -2366136226234689995
+    second: solid-arrows-thick_7
+  - first:
+      213: -7574948666502061109
+    second: solid-arrows-thick_8
+  - first:
+      213: 3280958000938748006
+    second: solid-arrows-thick_9
+  - first:
+      213: 5278152137390732058
+    second: solid-arrows-thick_10
+  - first:
+      213: -5760893497802062348
+    second: solid-arrows-thick_11
+  - first:
+      213: 854403076244015245
+    second: solid-arrows-thick_12
+  - first:
+      213: -3861209177104328856
+    second: solid-arrows-thick_13
+  - first:
+      213: 4259288468442528436
+    second: solid-arrows-thick_14
+  - first:
+      213: -7723727107489203912
+    second: solid-arrows-thick_15
+  - first:
+      213: 448335424805928003
+    second: solid-arrows-thick_16
+  - first:
+      213: 3032845662227812192
+    second: solid-arrows-thick_17
+  - first:
+      213: -9119862625807524144
+    second: solid-arrows-thick_18
+  - first:
+      213: 8739753344086337281
+    second: solid-arrows-thick_19
+  - first:
+      213: 37836378043347903
+    second: solid-arrows-thick_20
+  - first:
+      213: 5959879566577024227
+    second: solid-arrows-thick_21
+  - first:
+      213: -1059507834018962008
+    second: solid-arrows-thick_22
+  - first:
+      213: 6566654765588559698
+    second: solid-arrows-thick_23
+  - first:
+      213: -3894683451099833797
+    second: solid-arrows-thick_24
+  - first:
+      213: -8281691675470967658
+    second: solid-arrows-thick_25
+  - first:
+      213: -3691273159100078527
+    second: solid-arrows-thick_26
+  - first:
+      213: 6932791621326543278
+    second: solid-arrows-thick_27
+  - first:
+      213: 3965541282225430279
+    second: solid-arrows-thick_28
+  - first:
+      213: -4823374118781562725
+    second: solid-arrows-thick_29
+  - first:
+      213: 4546833880926233991
+    second: solid-arrows-thick_30
+  - first:
+      213: -5653230481552025160
+    second: solid-arrows-thick_31
+  - first:
+      213: -3844293373813967206
+    second: solid-arrows-thick_32
+  - first:
+      213: 6976539891127187060
+    second: solid-arrows-thick_33
+  - first:
+      213: -4402495685848176768
+    second: solid-arrows-thick_34
+  - first:
+      213: -2249209523910100948
+    second: solid-arrows-thick_35
+  - first:
+      213: -5430334736804046109
+    second: solid-arrows-thick_36
+  - first:
+      213: -144088984410379740
+    second: solid-arrows-thick_37
+  - first:
+      213: -3983106034545370103
+    second: solid-arrows-thick_38
+  - first:
+      213: 7144044748029774221
+    second: solid-arrows-thick_39
+  - first:
+      213: 8523551153367572079
+    second: solid-arrows-thick_40
+  - first:
+      213: -2697667298222369022
+    second: solid-arrows-thick_41
+  - first:
+      213: 5725394646039187453
+    second: solid-arrows-thick_42
+  - first:
+      213: -6235126643006641964
+    second: solid-arrows-thick_43
+  - first:
+      213: -7903848262927149008
+    second: solid-arrows-thick_44
+  - first:
+      213: -4584177301426108612
+    second: solid-arrows-thick_45
+  - first:
+      213: 3081118483284287902
+    second: solid-arrows-thick_46
+  - first:
+      213: -9105449082850525037
+    second: solid-arrows-thick_47
+  - first:
+      213: -3780589705265919838
+    second: solid-arrows-thick_48
+  - first:
+      213: 5862283616369370513
+    second: solid-arrows-thick_49
+  - first:
+      213: 671779261262931385
+    second: solid-arrows-thick_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: solid-arrows-thick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210bb4bf8622a4ce0800000000000000
+      internalID: -1420284898193985518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd624e66cc466f370800000000000000
+      internalID: 8355976987694868189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 176
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aa331b44081a040800000000000000
+      internalID: 4657144522196888222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 178
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a25b709088f0550800000000000000
+      internalID: 6129267190239930908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd2b10d87c9a6cf0800000000000000
+      internalID: -258221985918931457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632dca27e2234680800000000000000
+      internalID: -8772129272936717465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dc5ed02f3fdff30800000000000000
+      internalID: 4611109814438055216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536191973abc92fd0800000000000000
+      internalID: -2366136226234689995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc36355525060e690800000000000000
+      internalID: -7574948666502061109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6680ee82bed488d20800000000000000
+      internalID: 3280958000938748006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b4a37763cf3940800000000000000
+      internalID: 5278152137390732058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f586a2e2e13d00b0800000000000000
+      internalID: -5760893497802062348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88868e22137bdb00800000000000000
+      internalID: 854403076244015245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867d73306ba3a6ac0800000000000000
+      internalID: -3861209177104328856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba3f6d9b480c1b30800000000000000
+      internalID: 4259288468442528436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839fc082e1fcfc490800000000000000
+      internalID: -7723727107489203912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf7c781bec83600800000000000000
+      internalID: 448335424805928003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4ca3af05d61a20800000000000000
+      internalID: 3032845662227812192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de916cc24dbf6180800000000000000
+      internalID: -9119862625807524144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1076cca7c57d94970800000000000000
+      internalID: 8739753344086337281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 114
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb37cd04cfb668000800000000000000
+      internalID: 37836378043347903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecbee593eeb5b250800000000000000
+      internalID: 5959879566577024227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a56e8c0d3fdb41f0800000000000000
+      internalID: -1059507834018962008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2573889b7b1712b50800000000000000
+      internalID: 6566654765588559698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a1a90490e43f9c0800000000000000
+      internalID: -3894683451099833797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c4e38ac45811d80800000000000000
+      internalID: -8281691675470967658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146e7e67e96f5ccc0800000000000000
+      internalID: -3691273159100078527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea919f28f39363060800000000000000
+      internalID: 6932791621326543278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f913d29ce680730800000000000000
+      internalID: 3965541282225430279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9056375bceef0db0800000000000000
+      internalID: -4823374118781562725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785a1551359991f30800000000000000
+      internalID: 4546833880926233991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b95ea144d0bb81b0800000000000000
+      internalID: -5653230481552025160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a963e616b8356aac0800000000000000
+      internalID: -3844293373813967206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4767af35116a1d060800000000000000
+      internalID: 6976539891127187060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08764d7cf7137e2c0800000000000000
+      internalID: -4402495685848176768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b9e5dad339c0e0800000000000000
+      internalID: -2249209523910100948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea9459f35393a4b0800000000000000
+      internalID: -5430334736804046109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 50
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a2c2405d7100ef0800000000000000
+      internalID: -144088984410379740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c553c3a2a29b8c0800000000000000
+      internalID: -3983106034545370103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d894fc9f8deb42360800000000000000
+      internalID: 7144044748029774221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e58514d9cb94670800000000000000
+      internalID: 8523551153367572079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207944792e5ff8ad0800000000000000
+      internalID: -2697667298222369022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffc61c9810b47f40800000000000000
+      internalID: 5725394646039187453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8e3027a516879a0800000000000000
+      internalID: -6235126643006641964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03893a991e3ef4290800000000000000
+      internalID: -7903848262927149008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c378619480bb160c0800000000000000
+      internalID: -4584177301426108612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ec03afe452ca20800000000000000
+      internalID: 3081118483284287902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390c9484d42f2a180800000000000000
+      internalID: -9105449082850525037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8402881b5a88bc0800000000000000
+      internalID: -3780589705265919838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e94ea3e30b5150800000000000000
+      internalID: 5862283616369370513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid-arrows-thick_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52d0bcda3a25900800000000000000
+      internalID: 671779261262931385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      solid-arrows-thick_0: -1420284898193985518
+      solid-arrows-thick_1: 8355976987694868189
+      solid-arrows-thick_10: 5278152137390732058
+      solid-arrows-thick_11: -5760893497802062348
+      solid-arrows-thick_12: 854403076244015245
+      solid-arrows-thick_13: -3861209177104328856
+      solid-arrows-thick_14: 4259288468442528436
+      solid-arrows-thick_15: -7723727107489203912
+      solid-arrows-thick_16: 448335424805928003
+      solid-arrows-thick_17: 3032845662227812192
+      solid-arrows-thick_18: -9119862625807524144
+      solid-arrows-thick_19: 8739753344086337281
+      solid-arrows-thick_2: 4657144522196888222
+      solid-arrows-thick_20: 37836378043347903
+      solid-arrows-thick_21: 5959879566577024227
+      solid-arrows-thick_22: -1059507834018962008
+      solid-arrows-thick_23: 6566654765588559698
+      solid-arrows-thick_24: -3894683451099833797
+      solid-arrows-thick_25: -8281691675470967658
+      solid-arrows-thick_26: -3691273159100078527
+      solid-arrows-thick_27: 6932791621326543278
+      solid-arrows-thick_28: 3965541282225430279
+      solid-arrows-thick_29: -4823374118781562725
+      solid-arrows-thick_3: 6129267190239930908
+      solid-arrows-thick_30: 4546833880926233991
+      solid-arrows-thick_31: -5653230481552025160
+      solid-arrows-thick_32: -3844293373813967206
+      solid-arrows-thick_33: 6976539891127187060
+      solid-arrows-thick_34: -4402495685848176768
+      solid-arrows-thick_35: -2249209523910100948
+      solid-arrows-thick_36: -5430334736804046109
+      solid-arrows-thick_37: -144088984410379740
+      solid-arrows-thick_38: -3983106034545370103
+      solid-arrows-thick_39: 7144044748029774221
+      solid-arrows-thick_4: -258221985918931457
+      solid-arrows-thick_40: 8523551153367572079
+      solid-arrows-thick_41: -2697667298222369022
+      solid-arrows-thick_42: 5725394646039187453
+      solid-arrows-thick_43: -6235126643006641964
+      solid-arrows-thick_44: -7903848262927149008
+      solid-arrows-thick_45: -4584177301426108612
+      solid-arrows-thick_46: 3081118483284287902
+      solid-arrows-thick_47: -9105449082850525037
+      solid-arrows-thick_48: -3780589705265919838
+      solid-arrows-thick_49: 5862283616369370513
+      solid-arrows-thick_5: -8772129272936717465
+      solid-arrows-thick_50: 671779261262931385
+      solid-arrows-thick_6: 4611109814438055216
+      solid-arrows-thick_7: -2366136226234689995
+      solid-arrows-thick_8: -7574948666502061109
+      solid-arrows-thick_9: 3280958000938748006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

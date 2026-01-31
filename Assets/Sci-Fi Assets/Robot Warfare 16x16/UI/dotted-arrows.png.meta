@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: cd583f7de2bd97140aadd39614efe202
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8012430435617879645
+    second: dotted-arrows_0
+  - first:
+      213: 440943142374744885
+    second: dotted-arrows_1
+  - first:
+      213: 2553145400613151906
+    second: dotted-arrows_2
+  - first:
+      213: -583101841513337007
+    second: dotted-arrows_3
+  - first:
+      213: 3731787544940893717
+    second: dotted-arrows_4
+  - first:
+      213: -3153986553081378153
+    second: dotted-arrows_5
+  - first:
+      213: -6014887639410265732
+    second: dotted-arrows_6
+  - first:
+      213: 7268570202918378805
+    second: dotted-arrows_7
+  - first:
+      213: 2455102912894998534
+    second: dotted-arrows_8
+  - first:
+      213: -4355950491250090386
+    second: dotted-arrows_9
+  - first:
+      213: -5357971810112066037
+    second: dotted-arrows_10
+  - first:
+      213: 3300378987202856118
+    second: dotted-arrows_11
+  - first:
+      213: -7326856609809497886
+    second: dotted-arrows_12
+  - first:
+      213: -7747903925816450663
+    second: dotted-arrows_13
+  - first:
+      213: 1640758505652193265
+    second: dotted-arrows_14
+  - first:
+      213: 9677580765409526
+    second: dotted-arrows_15
+  - first:
+      213: 7289684074546823602
+    second: dotted-arrows_16
+  - first:
+      213: 4113246125236282226
+    second: dotted-arrows_17
+  - first:
+      213: -3841622576045191990
+    second: dotted-arrows_18
+  - first:
+      213: -103693985330263019
+    second: dotted-arrows_19
+  - first:
+      213: 6213810589184453642
+    second: dotted-arrows_20
+  - first:
+      213: -1359481651907385086
+    second: dotted-arrows_21
+  - first:
+      213: -6341148074388893579
+    second: dotted-arrows_22
+  - first:
+      213: 3581370623939652707
+    second: dotted-arrows_23
+  - first:
+      213: 7216687446407968905
+    second: dotted-arrows_24
+  - first:
+      213: 2823016029269771024
+    second: dotted-arrows_25
+  - first:
+      213: 8275702988723166785
+    second: dotted-arrows_26
+  - first:
+      213: 4419270824201870701
+    second: dotted-arrows_27
+  - first:
+      213: -8802297234936802187
+    second: dotted-arrows_28
+  - first:
+      213: 7382847961682002882
+    second: dotted-arrows_29
+  - first:
+      213: -4455498511211312626
+    second: dotted-arrows_30
+  - first:
+      213: 5545014913636220808
+    second: dotted-arrows_31
+  - first:
+      213: 8736316396556978504
+    second: dotted-arrows_32
+  - first:
+      213: -1442422821609353919
+    second: dotted-arrows_33
+  - first:
+      213: -3960992153533092028
+    second: dotted-arrows_34
+  - first:
+      213: 4604796533698866580
+    second: dotted-arrows_35
+  - first:
+      213: -6813361256053936904
+    second: dotted-arrows_36
+  - first:
+      213: -7243728507408384522
+    second: dotted-arrows_37
+  - first:
+      213: 5750314199441728225
+    second: dotted-arrows_38
+  - first:
+      213: -5374807978817093970
+    second: dotted-arrows_39
+  - first:
+      213: -2057939390336686682
+    second: dotted-arrows_40
+  - first:
+      213: 5272990086293690767
+    second: dotted-arrows_41
+  - first:
+      213: 109237957755106526
+    second: dotted-arrows_42
+  - first:
+      213: -4682146183818520347
+    second: dotted-arrows_43
+  - first:
+      213: 6305283426105198158
+    second: dotted-arrows_44
+  - first:
+      213: -8880690096779507423
+    second: dotted-arrows_45
+  - first:
+      213: 3666440269166510762
+    second: dotted-arrows_46
+  - first:
+      213: -5044156778494284910
+    second: dotted-arrows_47
+  - first:
+      213: 2776705012597517882
+    second: dotted-arrows_48
+  - first:
+      213: 8392894204125100909
+    second: dotted-arrows_49
+  - first:
+      213: -8589532281706168198
+    second: dotted-arrows_50
+  - first:
+      213: -43635585370611880
+    second: dotted-arrows_51
+  - first:
+      213: -3979819567948946412
+    second: dotted-arrows_52
+  - first:
+      213: -6980025138560345451
+    second: dotted-arrows_53
+  - first:
+      213: 6829046568348622299
+    second: dotted-arrows_54
+  - first:
+      213: -893537558243683502
+    second: dotted-arrows_55
+  - first:
+      213: 3099267636234804491
+    second: dotted-arrows_56
+  - first:
+      213: 12361781191686984
+    second: dotted-arrows_57
+  - first:
+      213: -6546370057800994955
+    second: dotted-arrows_58
+  - first:
+      213: 8994281472432321252
+    second: dotted-arrows_59
+  - first:
+      213: 7588405839198554700
+    second: dotted-arrows_60
+  - first:
+      213: -2596776040113468058
+    second: dotted-arrows_61
+  - first:
+      213: 6934337785909256147
+    second: dotted-arrows_62
+  - first:
+      213: 2833721683368089390
+    second: dotted-arrows_63
+  - first:
+      213: 1964617330809660757
+    second: dotted-arrows_64
+  - first:
+      213: 7747344925315411987
+    second: dotted-arrows_65
+  - first:
+      213: -5104927827011878652
+    second: dotted-arrows_66
+  - first:
+      213: -693480250051718525
+    second: dotted-arrows_67
+  - first:
+      213: -2342267510502791435
+    second: dotted-arrows_68
+  - first:
+      213: -8846016630136809066
+    second: dotted-arrows_69
+  - first:
+      213: -2147738003767291026
+    second: dotted-arrows_70
+  - first:
+      213: 7866319595161753874
+    second: dotted-arrows_71
+  - first:
+      213: 3129126255610983913
+    second: dotted-arrows_72
+  - first:
+      213: -8387139262109313042
+    second: dotted-arrows_73
+  - first:
+      213: 3501371693484007906
+    second: dotted-arrows_74
+  - first:
+      213: -8586338207199333509
+    second: dotted-arrows_75
+  - first:
+      213: 9210935460404287416
+    second: dotted-arrows_76
+  - first:
+      213: 2980684829950824112
+    second: dotted-arrows_77
+  - first:
+      213: -2783025706864890224
+    second: dotted-arrows_78
+  - first:
+      213: 4131608318503180348
+    second: dotted-arrows_79
+  - first:
+      213: -7682340594676968947
+    second: dotted-arrows_80
+  - first:
+      213: 7881931523719171544
+    second: dotted-arrows_81
+  - first:
+      213: 5364602876244551894
+    second: dotted-arrows_82
+  - first:
+      213: 8591004769754774781
+    second: dotted-arrows_83
+  - first:
+      213: -6577332273059626783
+    second: dotted-arrows_84
+  - first:
+      213: -8682295798758046428
+    second: dotted-arrows_85
+  - first:
+      213: 2795955685282348612
+    second: dotted-arrows_86
+  - first:
+      213: 8225397974130742745
+    second: dotted-arrows_87
+  - first:
+      213: -7072597598946474716
+    second: dotted-arrows_88
+  - first:
+      213: 4485908167048230833
+    second: dotted-arrows_89
+  - first:
+      213: 2868624018786994125
+    second: dotted-arrows_90
+  - first:
+      213: 7597919533618375456
+    second: dotted-arrows_91
+  - first:
+      213: -3246467414009661642
+    second: dotted-arrows_92
+  - first:
+      213: -1556496759561706904
+    second: dotted-arrows_93
+  - first:
+      213: -9079787874378390428
+    second: dotted-arrows_94
+  - first:
+      213: -9153358825336754851
+    second: dotted-arrows_95
+  - first:
+      213: -2036827693864246054
+    second: dotted-arrows_96
+  - first:
+      213: -4666315854121842782
+    second: dotted-arrows_97
+  - first:
+      213: 645617318157864854
+    second: dotted-arrows_98
+  - first:
+      213: -6158252636274684399
+    second: dotted-arrows_99
+  - first:
+      213: -3831076604403207713
+    second: dotted-arrows_100
+  - first:
+      213: 1953394322064718073
+    second: dotted-arrows_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dotted-arrows_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9c77178f02ec090800000000000000
+      internalID: -8012430435617879645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5332467a37b8e1600800000000000000
+      internalID: 440943142374744885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42877f6389e6320800000000000000
+      internalID: 2553145400613151906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa8bce6f768e7f0800000000000000
+      internalID: -583101841513337007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516dd611009f9c330800000000000000
+      internalID: 3731787544940893717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac935c0f9ca34d0800000000000000
+      internalID: -3153986553081378153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7130196f83d68ca0800000000000000
+      internalID: -6014887639410265732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d50f9c6162fd460800000000000000
+      internalID: 7268570202918378805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 83
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60812227717421220800000000000000
+      internalID: 2455102912894998534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 86
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e99d56b1e8c83c0800000000000000
+      internalID: -4355950491250090386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 83
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea6b5c609a4a5b0800000000000000
+      internalID: -5357971810112066037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c364e33d4dcd20800000000000000
+      internalID: 3300378987202856118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e005149bb6c15a90800000000000000
+      internalID: -7326856609809497886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9912bdbfd6ae97490800000000000000
+      internalID: -7747903925816450663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 81
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f78993fa2525c610800000000000000
+      internalID: 1640758505652193265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0becb55b1622000800000000000000
+      internalID: 9677580765409526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18f2c1b092a2560800000000000000
+      internalID: 7289684074546823602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273e578de8f251930800000000000000
+      internalID: 4113246125236282226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc84b1fe90dfaac0800000000000000
+      internalID: -3841622576045191990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c8b07aeda9f8ef0800000000000000
+      internalID: -103693985330263019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c66e50fc3eb3650800000000000000
+      internalID: 6213810589184453642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2092663f3a6222de0800000000000000
+      internalID: -1359481651907385086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570d5e55c67bff7a0800000000000000
+      internalID: -6341148074388893579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c21f88b9593b130800000000000000
+      internalID: 3581370623939652707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988fa223ff2d62460800000000000000
+      internalID: 7216687446407968905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 67
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013cbd32f1e5d2720800000000000000
+      internalID: 2823016029269771024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 70
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e9b7d850439d270800000000000000
+      internalID: 8275702988723166785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 67
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ddcca7667645d30800000000000000
+      internalID: 4419270824201870701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57450382d45f7d580800000000000000
+      internalID: -8802297234936802187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c5caea15257660800000000000000
+      internalID: 7382847961682002882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac7f5d5b3ea22c0800000000000000
+      internalID: -4455498511211312626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 65
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb7896fa9d3fc40800000000000000
+      internalID: 5545014913636220808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_32
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8490336c971ad3970800000000000000
+      internalID: 8736316396556978504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dce06061c7bfbe0800000000000000
+      internalID: -1442422821609353919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fec826f9ab709c0800000000000000
+      internalID: -3960992153533092028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d2216dc0687ef30800000000000000
+      internalID: 4604796533698866580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcee7e49041271a0800000000000000
+      internalID: -6813361256053936904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd7d8a2d4b197b90800000000000000
+      internalID: -7243728507408384522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2eb944c483dcf40800000000000000
+      internalID: 5750314199441728225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaefba6ce98d865b0800000000000000
+      internalID: -5374807978817093970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a2b5270bb073e0800000000000000
+      internalID: -2057939390336686682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8911b5cb8c6d2940800000000000000
+      internalID: 5272990086293690767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 51
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed47bf30857148100800000000000000
+      internalID: 109237957755106526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 54
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8db075adca50fb0800000000000000
+      internalID: -4682146183818520347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 51
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4688258eddd08750800000000000000
+      internalID: 6305283426105198158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c02da86371c480800000000000000
+      internalID: -8880690096779507423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa28bd9cfffc1e230800000000000000
+      internalID: 3666440269166510762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b2872922e8ff9b0800000000000000
+      internalID: -5044156778494284910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 49
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eebe15f76d88620800000000000000
+      internalID: 2776705012597517882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_49
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bbf4aafcc897470800000000000000
+      internalID: 8392894204125100909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 49
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70472a26e9dbc880800000000000000
+      internalID: -8589532281706168198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f1b629aa9f46ff0800000000000000
+      internalID: -43635585370611880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414214e5037d4c8c0800000000000000
+      internalID: -3979819567948946412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a50d44e18f12f90800000000000000
+      internalID: -6980025138560345451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd150d0ca5a5ce50800000000000000
+      internalID: 6829046568348622299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2535a6f23548993f0800000000000000
+      internalID: -893537558243683502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dd3a99e7fc20b20800000000000000
+      internalID: 3099267636234804491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bb8b879faeb2000800000000000000
+      internalID: 12361781191686984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa488dd1f9625a0800000000000000
+      internalID: -6546370057800994955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b43e685b12dc70800000000000000
+      internalID: 8994281472432321252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 38
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a0ee8d7ee6f4960800000000000000
+      internalID: 7588405839198554700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d8ac723f566fbd0800000000000000
+      internalID: -2596776040113468058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df90b10a77bb3060800000000000000
+      internalID: 6934337785909256147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e271a797bd6635720800000000000000
+      internalID: 2833721683368089390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5556c7aad09b34b10800000000000000
+      internalID: 1964617330809660757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b9d19929148b60800000000000000
+      internalID: 7747344925315411987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40143fa3037a729b0800000000000000
+      internalID: -5104927827011878652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3821be403634066f0800000000000000
+      internalID: -693480250051718525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ea8beb189e7fd0800000000000000
+      internalID: -2342267510502791435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6995f7b3eb2ac3580800000000000000
+      internalID: -8846016630136809066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6318de2aa3b132e0800000000000000
+      internalID: -2147738003767291026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2199f478ef7ca2d60800000000000000
+      internalID: 7866319595161753874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e57a0b20c3ec6b20800000000000000
+      internalID: 3129126255610983913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee71e303745ea9b80800000000000000
+      internalID: -8387139262109313042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e8b0110f579030800000000000000
+      internalID: 3501371693484007906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_75
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f48694e237d880800000000000000
+      internalID: -8586338207199333509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b75276eff0d3df70800000000000000
+      internalID: 9210935460404287416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 22
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4d9c7f058d5920800000000000000
+      internalID: 2980684829950824112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 19
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ea98d5dd4b069d0800000000000000
+      internalID: -2783025706864890224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385e6f10eb665930800000000000000
+      internalID: 4131608318503180348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_80
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0257b29ee7d26590800000000000000
+      internalID: -7682340594676968947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd0c37e5fe326d60800000000000000
+      internalID: 7881931523719171544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_82
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8689f94e5e27a40800000000000000
+      internalID: 5364602876244551894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_83
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc7bec2251693770800000000000000
+      internalID: 8591004769754774781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e08196552f98b4a0800000000000000
+      internalID: -6577332273059626783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4250928c8f9428780800000000000000
+      internalID: -8682295798758046428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44efcf4d1ea3dc620800000000000000
+      internalID: 2795955685282348612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5d740a0eb762270800000000000000
+      internalID: 8225397974130742745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425c38bb4f519dd90800000000000000
+      internalID: -7072597598946474716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7fee7e5b5214e30800000000000000
+      internalID: 4485908167048230833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7c3f1b8566fc720800000000000000
+      internalID: 2868624018786994125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b23517f8b317960800000000000000
+      internalID: 7597919533618375456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b215661b32f2d0800000000000000
+      internalID: -3246467414009661642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_93
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622740a176366ae0800000000000000
+      internalID: -1556496759561706904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464e6c7f80d1ef180800000000000000
+      internalID: -9079787874378390428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dad1a15acb8f080800000000000000
+      internalID: -9153358825336754851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_96
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad42b86010cbbb3e0800000000000000
+      internalID: -2036827693864246054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74b41347aed3fb0800000000000000
+      internalID: -4666315854121842782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_98
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc3adb781b5f800800000000000000
+      internalID: 645617318157864854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_99
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e0cb9eadd798aa0800000000000000
+      internalID: -6158252636274684399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_100
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1bc3f402845dac0800000000000000
+      internalID: -3831076604403207713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dotted-arrows_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8bee059c9db1b10800000000000000
+      internalID: 1953394322064718073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dotted-arrows_0: -8012430435617879645
+      dotted-arrows_1: 440943142374744885
+      dotted-arrows_10: -5357971810112066037
+      dotted-arrows_100: -3831076604403207713
+      dotted-arrows_101: 1953394322064718073
+      dotted-arrows_11: 3300378987202856118
+      dotted-arrows_12: -7326856609809497886
+      dotted-arrows_13: -7747903925816450663
+      dotted-arrows_14: 1640758505652193265
+      dotted-arrows_15: 9677580765409526
+      dotted-arrows_16: 7289684074546823602
+      dotted-arrows_17: 4113246125236282226
+      dotted-arrows_18: -3841622576045191990
+      dotted-arrows_19: -103693985330263019
+      dotted-arrows_2: 2553145400613151906
+      dotted-arrows_20: 6213810589184453642
+      dotted-arrows_21: -1359481651907385086
+      dotted-arrows_22: -6341148074388893579
+      dotted-arrows_23: 3581370623939652707
+      dotted-arrows_24: 7216687446407968905
+      dotted-arrows_25: 2823016029269771024
+      dotted-arrows_26: 8275702988723166785
+      dotted-arrows_27: 4419270824201870701
+      dotted-arrows_28: -8802297234936802187
+      dotted-arrows_29: 7382847961682002882
+      dotted-arrows_3: -583101841513337007
+      dotted-arrows_30: -4455498511211312626
+      dotted-arrows_31: 5545014913636220808
+      dotted-arrows_32: 8736316396556978504
+      dotted-arrows_33: -1442422821609353919
+      dotted-arrows_34: -3960992153533092028
+      dotted-arrows_35: 4604796533698866580
+      dotted-arrows_36: -6813361256053936904
+      dotted-arrows_37: -7243728507408384522
+      dotted-arrows_38: 5750314199441728225
+      dotted-arrows_39: -5374807978817093970
+      dotted-arrows_4: 3731787544940893717
+      dotted-arrows_40: -2057939390336686682
+      dotted-arrows_41: 5272990086293690767
+      dotted-arrows_42: 109237957755106526
+      dotted-arrows_43: -4682146183818520347
+      dotted-arrows_44: 6305283426105198158
+      dotted-arrows_45: -8880690096779507423
+      dotted-arrows_46: 3666440269166510762
+      dotted-arrows_47: -5044156778494284910
+      dotted-arrows_48: 2776705012597517882
+      dotted-arrows_49: 8392894204125100909
+      dotted-arrows_5: -3153986553081378153
+      dotted-arrows_50: -8589532281706168198
+      dotted-arrows_51: -43635585370611880
+      dotted-arrows_52: -3979819567948946412
+      dotted-arrows_53: -6980025138560345451
+      dotted-arrows_54: 6829046568348622299
+      dotted-arrows_55: -893537558243683502
+      dotted-arrows_56: 3099267636234804491
+      dotted-arrows_57: 12361781191686984
+      dotted-arrows_58: -6546370057800994955
+      dotted-arrows_59: 8994281472432321252
+      dotted-arrows_6: -6014887639410265732
+      dotted-arrows_60: 7588405839198554700
+      dotted-arrows_61: -2596776040113468058
+      dotted-arrows_62: 6934337785909256147
+      dotted-arrows_63: 2833721683368089390
+      dotted-arrows_64: 1964617330809660757
+      dotted-arrows_65: 7747344925315411987
+      dotted-arrows_66: -5104927827011878652
+      dotted-arrows_67: -693480250051718525
+      dotted-arrows_68: -2342267510502791435
+      dotted-arrows_69: -8846016630136809066
+      dotted-arrows_7: 7268570202918378805
+      dotted-arrows_70: -2147738003767291026
+      dotted-arrows_71: 7866319595161753874
+      dotted-arrows_72: 3129126255610983913
+      dotted-arrows_73: -8387139262109313042
+      dotted-arrows_74: 3501371693484007906
+      dotted-arrows_75: -8586338207199333509
+      dotted-arrows_76: 9210935460404287416
+      dotted-arrows_77: 2980684829950824112
+      dotted-arrows_78: -2783025706864890224
+      dotted-arrows_79: 4131608318503180348
+      dotted-arrows_8: 2455102912894998534
+      dotted-arrows_80: -7682340594676968947
+      dotted-arrows_81: 7881931523719171544
+      dotted-arrows_82: 5364602876244551894
+      dotted-arrows_83: 8591004769754774781
+      dotted-arrows_84: -6577332273059626783
+      dotted-arrows_85: -8682295798758046428
+      dotted-arrows_86: 2795955685282348612
+      dotted-arrows_87: 8225397974130742745
+      dotted-arrows_88: -7072597598946474716
+      dotted-arrows_89: 4485908167048230833
+      dotted-arrows_9: -4355950491250090386
+      dotted-arrows_90: 2868624018786994125
+      dotted-arrows_91: 7597919533618375456
+      dotted-arrows_92: -3246467414009661642
+      dotted-arrows_93: -1556496759561706904
+      dotted-arrows_94: -9079787874378390428
+      dotted-arrows_95: -9153358825336754851
+      dotted-arrows_96: -2036827693864246054
+      dotted-arrows_97: -4666315854121842782
+      dotted-arrows_98: 645617318157864854
+      dotted-arrows_99: -6158252636274684399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
