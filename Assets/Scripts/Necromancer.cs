@@ -1,13 +1,11 @@
 using UnityEngine;
-using System;
 using System.Collections;
 using UnityEngine.Assertions;
-using Unity.Mathematics;
-
 public class Necromancer : MonoBehaviour
 {
     Animator anim;
     public float speed = 1.0f;
+    public float dashDistance = 6.0f;
     public float attackCooldown = 1.0f;
     bool isAttacking = false;
     GameObject player = null;
@@ -121,6 +119,19 @@ public class Necromancer : MonoBehaviour
         }
     }
 
+    IEnumerator Dash(Vector2 dir)
+    {
+        float maxDashTime = 1.0f;
+        float dashTime = maxDashTime;
+        Vector3 d = new Vector3(dir.x * dashDistance, dir.y * dashDistance, this.transform.position.z);
+        while(this.transform.position != d && dashTime > 0)
+        {
+            this.transform.position = Vector3.MoveTowards(this.transform.position, d, (dashDistance / DashTime) * Time.fixedDeltaTime);
+            dashTime -= Time.fixedDeltaTime;
+            yield return new WaitForFixedUpdate();
+        }
+    }
+
     void runto(GameObject player)
     {
         if (isAttacking)
@@ -128,7 +139,12 @@ public class Necromancer : MonoBehaviour
             StopCoroutine(AttackCoroutine);
         }
         stateTransition(State.RUNNING);
-        //Vector2 dir = 
+        Vector2 dir = (player.transform.position - this.transform.position).normalized;
+        dir = new Vector2(
+            dir.x > 0 ? 1 : -1,
+            dir.y > 0 ? 1 : -1);
+        StartCoroutine(Dash(dir));
+
     }
 
     public void FreakyOnTriggerExit2D(Collider2D collision)
