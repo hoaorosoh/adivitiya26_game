@@ -860,7 +860,7 @@ TextureImporter:
       name: water_coasts_21
       rect:
         serializedVersion: 2
-        x: 342
+        x: 352
         y: 960
         width: 16
         height: 16
@@ -3237,12 +3237,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 310
-        y: 880
+        y: 883
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -3259,12 +3259,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 326
-        y: 880
+        y: 883
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -3281,12 +3281,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 342
-        y: 880
+        y: 883
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 3}
       customData: 
       outline: []
       physicsShape: []
