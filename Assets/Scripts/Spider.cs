@@ -4,16 +4,13 @@ using System.Collections;
 using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
-public class NightBorne : MonoBehaviour
+public class Spider : MonoBehaviour
 {
     Animator anim;
-    public GameObject hitbox1, hitbox2;
-    public Sprite attackLanded;
-    SpriteRenderer spreet;
-    public float speed = 1.0f;
+    public float speed = 10.0f;
     public float attackCooldown = 1.0f;
     bool isAttacking = false;
-    public float attackRange = 3.0f;
+    public float attackRange = 1.0f;
     GameObject player = null;
     int facingDirection = 1;
 
@@ -21,14 +18,12 @@ public class NightBorne : MonoBehaviour
 
     private enum State
     {
-        IDLE, RUNNING, ATTACKING, HURT, DYING
+        IDLE, RUNNING, ATTACKING, DYING
     }
 
     private void Start()
     {
-        spreet = this.gameObject.GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
-        hitbox2.SetActive(false);
     }
 
     private void Update()
@@ -59,19 +54,10 @@ public class NightBorne : MonoBehaviour
             transform.localScale.z);
     }
 
-    bool IsCurrentSpriteEqualToAttackLanded()
-    {
-        return spreet.sprite == attackLanded;
-    }
-
     IEnumerator Attack()
     {
         isAttacking = true;
-        yield return new WaitUntil(IsCurrentSpriteEqualToAttackLanded);
-        //Debug.Log("meow");
-        hitbox2.SetActive(true);
         yield return new WaitForSeconds(0.1f);
-        hitbox2.SetActive(false);
         stateTransition(State.IDLE);
         yield return new WaitForSeconds(attackCooldown);
         isAttacking = false;
@@ -114,10 +100,6 @@ public class NightBorne : MonoBehaviour
                 break;
             case State.ATTACKING:
                 anim.SetBool("IsAttacking", false);
-                hitbox2.SetActive(false);
-                break;
-            case State.HURT:
-                anim.SetBool("IsHurt", false);
                 break;
             case State.DYING:
                 anim.SetBool("IsDead", false);
@@ -139,17 +121,14 @@ public class NightBorne : MonoBehaviour
     {
         switch (s)
         {
-            case State.IDLE: 
+            case State.IDLE:
                 return;
-                //break;
+            //break;
             case State.RUNNING:
                 anim.SetBool("IsRunning", true);
                 break;
             case State.ATTACKING:
                 anim.SetBool("IsAttacking", true);
-                break;
-            case State.HURT:
-                anim.SetBool("IsHurt", true);
                 break;
             case State.DYING:
                 anim.SetBool("IsDead", true);
@@ -161,37 +140,12 @@ public class NightBorne : MonoBehaviour
     void runto(GameObject player)
     {
         if (player == null) { return; }
-        //Debug.Log("running");
         stateTransition(State.RUNNING);
-        if (Mathf.Round(this.transform.position.y) > Mathf.Round(player.transform.position.y))
-        {
-            //Debug.Log("PLayer is Under");
-            //Debug.Log(player.transform.position);
-            this.transform.position = new Vector3(
-                this.transform.position.x,
-                this.transform.position.y - (speed * Time.fixedDeltaTime),
-                this.transform.position.z);
-        } else if (Mathf.Round(this.transform.position.y) < Mathf.Round(player.transform.position.y))
-        {
-            this.transform.position = new Vector3(
-                this.transform.position.x,
-                this.transform.position.y + (speed * Time.fixedDeltaTime),
-                this.transform.position.z);
-        }
-        else if (this.transform.position.x > player.transform.position.x)
-        {
-            this.transform.position = new Vector3(
-                this.transform.position.x - (speed * Time.fixedDeltaTime),
-                this.transform.position.y,
-                this.transform.position.z);
-        }
-        else if (this.transform.position.x < player.transform.position.x)
-        {
-            this.transform.position = new Vector3(
-                this.transform.position.x + (speed * Time.fixedDeltaTime),
-                this.transform.position.y,
-                this.transform.position.z);
-        }
+        Vector2 dir = (-this.transform.position + player.transform.position).normalized;
+        this.transform.position = new Vector3(
+            this.transform.position.x + (dir.x * speed * Time.fixedDeltaTime),
+            this.transform.position.y + (dir.y * speed * Time.fixedDeltaTime),
+            this.transform.position.z);
     }
 
     public void FreakyOnTriggerExit2D(Collider2D collision)
