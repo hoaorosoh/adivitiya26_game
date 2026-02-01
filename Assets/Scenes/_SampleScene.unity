@@ -111081,7 +111081,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 7.5
+  orthographic size: 8.4375
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -117408,6 +117408,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 6730663125730842068, guid: 26be6f16af939504dbdb376da143683b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.6308594
+      objectReference: {fileID: 0}
     - target: {fileID: 7616980091275173992, guid: 26be6f16af939504dbdb376da143683b, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -117495,6 +117499,10 @@ PrefabInstance:
     - target: {fileID: 8594523135346122425, guid: 26be6f16af939504dbdb376da143683b, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8594523135346122425, guid: 26be6f16af939504dbdb376da143683b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.7000427
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
