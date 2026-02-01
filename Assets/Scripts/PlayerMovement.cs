@@ -24,6 +24,10 @@ public class PlayerMovement : MonoBehaviour
 
         Vector2 movement = new Vector2(horizontal, vertical);
         rb.linearVelocity = movement * speed;
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            this.transform.position = this.transform.position + new Vector3(facingDirection * 10.0f, 0, 0);
+        }
     }
 
     void Flip()

@@ -715,6 +715,52 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1279339166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1279339168}
+  - component: {fileID: 1279339167}
+  m_Layer: 0
+  m_Name: WInnerMaker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1279339167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279339166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4c3434add9fc3d43a1b347ce6cac0a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BackstoryManager
+  waitTime: 60
+  meow: UndeadPath
+--- !u!4 &1279339168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279339166}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -34.82666, y: 64.50309, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1304114892
 GameObject:
   m_ObjectHideFlags: 0
@@ -42222,7 +42268,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 515717135346063173, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: orthographic size
-      value: 8.4375
+      value: 8.0625
       objectReference: {fileID: 0}
     - target: {fileID: 3758090768405842910, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: m_LocalPosition.x
@@ -44398,3 +44444,4 @@ SceneRoots:
   - {fileID: 705322017}
   - {fileID: 1553371932}
   - {fileID: 1712024979}
+  - {fileID: 1279339168}

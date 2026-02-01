@@ -31,7 +31,7 @@ public class PlayerHealth : MonoBehaviour
 
         if (currentHealth <= 0)
         {
-            gameObject.SetActive(false);
+            Utils.SwitchScene(7);
         }
     }
 }

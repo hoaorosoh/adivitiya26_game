@@ -3120,7 +3120,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 515717135346063173, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: orthographic size
-      value: 8.4375
+      value: 11.03125
       objectReference: {fileID: 0}
     - target: {fileID: 3758090768405842910, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11791,6 +11791,52 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1434690976
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1434690978}
+  - component: {fileID: 1434690977}
+  m_Layer: 0
+  m_Name: WInnerMaker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1434690977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1434690976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4c3434add9fc3d43a1b347ce6cac0a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BackstoryManager
+  waitTime: 120
+  meow: WinScreen
+--- !u!4 &1434690978
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1434690976}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -34.82666, y: 64.50309, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1750470868
 GameObject:
   m_ObjectHideFlags: 0
@@ -15407,3 +15453,4 @@ SceneRoots:
   - {fileID: 2056767664}
   - {fileID: 892897815}
   - {fileID: 220366896}
+  - {fileID: 1434690978}
