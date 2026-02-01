@@ -794,8 +794,8 @@ TextureImporter:
       name: water_coasts_18
       rect:
         serializedVersion: 2
-        x: 320
-        y: 944
+        x: 318
+        y: 951
         width: 16
         height: 16
       alignment: 0
@@ -816,12 +816,12 @@ TextureImporter:
       name: water_coasts_19
       rect:
         serializedVersion: 2
-        x: 336
-        y: 944
+        x: 322
+        y: 953
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.53722, y: 0.48138428}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1147,7 +1147,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 928
+        y: 931
         width: 16
         height: 16
       alignment: 0
@@ -1169,7 +1169,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 336
-        y: 928
+        y: 931
         width: 16
         height: 16
       alignment: 0
@@ -1477,7 +1477,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 912
+        y: 915
         width: 16
         height: 16
       alignment: 0
@@ -1499,7 +1499,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 336
-        y: 912
+        y: 915
         width: 16
         height: 16
       alignment: 0
@@ -1741,7 +1741,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 896
+        y: 899
         width: 16
         height: 16
       alignment: 0
@@ -1763,7 +1763,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 336
-        y: 896
+        y: 899
         width: 16
         height: 16
       alignment: 0
@@ -1851,7 +1851,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 880
+        y: 883
         width: 16
         height: 16
       alignment: 0
@@ -1873,7 +1873,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 336
-        y: 880
+        y: 883
         width: 16
         height: 16
       alignment: 0
