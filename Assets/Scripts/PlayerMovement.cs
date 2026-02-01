@@ -26,7 +26,7 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = movement * speed;
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            this.transform.position = this.transform.position + new Vector3(facingDirection * 10.0f, 0, 0);
+            this.transform.position = this.transform.position + new Vector3(facingDirection * 2.5f, 0, 0);
         }
     }
 
