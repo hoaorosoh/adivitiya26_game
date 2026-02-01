@@ -41,7 +41,7 @@ public class Necromancer : MonoBehaviour
     IEnumerator Attack()
     {
         isAttacking = true;
-        MageBullet m = Instantiate(mageBullet);
+        MageBullet m = Instantiate(mageBullet, this.transform.position, Quaternion.identity);
         m.SetVelocity(bulletSpeed * (player.transform.position - this.transform.position).normalized);
         yield return new WaitForSeconds(0.5f);
         stateTransition(State.IDLE);
@@ -136,7 +136,7 @@ public class Necromancer : MonoBehaviour
             dashTime -= Time.fixedDeltaTime;
             yield return new WaitForFixedUpdate();
         }
-        stateTransition(State.IDLE);
+        stateTransition(State.ATTACKING);
     }
 
     void runto(GameObject player)

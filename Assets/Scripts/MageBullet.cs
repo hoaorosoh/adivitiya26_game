@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class MageBullet : EnemyCombat
@@ -6,9 +7,22 @@ public class MageBullet : EnemyCombat
     public float lifeTime = 60.0f;
     private float remainingTime;
 
+    static Queue<MageBullet> allBullets = new Queue<MageBullet>();
+
     private void Start()
     {
         remainingTime = lifeTime;
+        allBullets.Enqueue(this);
+    }
+
+    private void Update()
+    {
+        if (allBullets.Count > 4)
+        {
+            MageBullet first = allBullets.Peek();
+            allBullets.Dequeue();
+            Destroy(first.gameObject);
+        }
     }
 
     public void SetVelocity(Vector3 v)
@@ -33,7 +47,7 @@ public class MageBullet : EnemyCombat
         }
         else
         {
-            Destroy(this);
+            Destroy(this.gameObject);
         }
     }
 }
