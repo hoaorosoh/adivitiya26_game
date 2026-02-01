@@ -41,7 +41,7 @@ public class NightBorne : MonoBehaviour
         if (player != null) Behaviour(player);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void FreakyOnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
@@ -194,7 +194,7 @@ public class NightBorne : MonoBehaviour
         }
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
+    public void FreakyOnTriggerExit2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
