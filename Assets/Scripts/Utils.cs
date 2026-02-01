@@ -1,14 +1,14 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public static class Utility
+public static class Utils
 {
-    static void SwitchScene(string sceneName)
+    public static void SwitchScene(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
     }
 
-    static void SwitchScene(int scene)
+    public static void SwitchScene(int scene)
     {
         SceneManager.LoadScene(scene);
     }

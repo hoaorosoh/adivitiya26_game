@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3777460844028595801}
   - component: {fileID: 6923874123853435357}
   - component: {fileID: 4779916381447606600}
+  - component: {fileID: 1150048137078167500}
   m_Layer: 0
   m_Name: NightBorne
   m_TagString: Untagged
@@ -114,3 +115,15 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &1150048137078167500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2683675585332090451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153252734c207324bab99d97f8182dfc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
