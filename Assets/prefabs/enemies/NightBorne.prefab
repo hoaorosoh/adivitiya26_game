@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 1150048137078167500}
   - component: {fileID: 7883144138529174197}
   - component: {fileID: 7839131864581386295}
-  - component: {fileID: 1577134341181278148}
   m_Layer: 0
   m_Name: NightBorne
   m_TagString: Enemy
@@ -200,19 +199,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1577134341181278148
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2683675585332090451}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a3ae90e285581c46a9d0fe9cee65e68, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyCombat
-  damage: 1
 --- !u!1 &5266708043654275869
 GameObject:
   m_ObjectHideFlags: 0
@@ -224,6 +210,7 @@ GameObject:
   - component: {fileID: 8824211809639822865}
   - component: {fileID: 3132954599479871452}
   - component: {fileID: 7897150839210198634}
+  - component: {fileID: 713595714949307859}
   m_Layer: 0
   m_Name: Hitbox2
   m_TagString: DamageSource
@@ -329,6 +316,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 0.8}
   m_EdgeRadius: 0
+--- !u!114 &713595714949307859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5266708043654275869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a3ae90e285581c46a9d0fe9cee65e68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyCombat
+  damage: 1
 --- !u!1 &5469076807044001071
 GameObject:
   m_ObjectHideFlags: 0
@@ -339,6 +339,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3952749934599272457}
   - component: {fileID: 4380716391976805818}
+  - component: {fileID: 3859434265217250878}
   m_Layer: 0
   m_Name: Hitbox1
   m_TagString: DamageSource
@@ -398,3 +399,16 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1, y: 1.5}
   m_Direction: 0
+--- !u!114 &3859434265217250878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5469076807044001071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a3ae90e285581c46a9d0fe9cee65e68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyCombat
+  damage: 1

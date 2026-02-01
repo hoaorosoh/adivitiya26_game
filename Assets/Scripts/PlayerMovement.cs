@@ -1,7 +1,7 @@
 //using UnityEditor.Tilemaps;
 using UnityEngine;
 
-public class PlayerMovement : EnemyCombat
+public class PlayerMovement : MonoBehaviour
 {
     public float speed = 5;
     public int facingDirection = 1;
