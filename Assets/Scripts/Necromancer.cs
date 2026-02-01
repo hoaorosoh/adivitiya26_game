@@ -63,6 +63,7 @@ public class Necromancer : MonoBehaviour
             dashCooldown -= Time.fixedDeltaTime;
             if (!isAttacking)
             {
+                isAttacking = true;
                 stateTransition(State.ATTACKING);
                 AttackCoroutine = StartCoroutine(Attack());
             }
@@ -129,8 +130,9 @@ public class Necromancer : MonoBehaviour
     {
         //float maxDashTime = 1.0f;
         float dashTime = maxDashTime;
-        Vector3 d = new Vector3(dir.x * dashDistance, dir.y * dashDistance, this.transform.position.z);
-        while(this.transform.position != d && dashTime > 0)
+        Vector3 d = transform.position + new Vector3(dir.x, dir.y, 0) * dashDistance;
+
+        while (Vector3.Distance(transform.position, d) > 0.01f && dashTime > 0)
         {
             this.transform.position = Vector3.MoveTowards(this.transform.position, d, (dashDistance / maxDashTime) * Time.fixedDeltaTime);
             dashTime -= Time.fixedDeltaTime;
@@ -143,6 +145,7 @@ public class Necromancer : MonoBehaviour
     {
         if (isAttacking)
         {
+            isAttacking = false;
             StopCoroutine(AttackCoroutine);
         }
         stateTransition(State.RUNNING);
