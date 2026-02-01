@@ -6,7 +6,10 @@ public class Necromancer : MonoBehaviour
     Animator anim;
     public float speed = 1.0f;
     public float dashDistance = 6.0f;
-    public float attackCooldown = 1.0f;
+    public float maxDashTime = 1.0f;
+    public float bulletSpeed = 1.0f;
+    public float attackCooldown = 0.5f;
+    public MageBullet mageBullet;
     bool isAttacking = false;
     GameObject player = null;
     float dashCooldown = 1.0f;
@@ -38,6 +41,9 @@ public class Necromancer : MonoBehaviour
     IEnumerator Attack()
     {
         isAttacking = true;
+        MageBullet m = Instantiate(mageBullet);
+        m.SetVelocity(bulletSpeed * (player.transform.position - this.transform.position).normalized);
+        yield return new WaitForSeconds(0.5f);
         stateTransition(State.IDLE);
         yield return new WaitForSeconds(attackCooldown);
         isAttacking = false;
@@ -121,15 +127,16 @@ public class Necromancer : MonoBehaviour
 
     IEnumerator Dash(Vector2 dir)
     {
-        float maxDashTime = 1.0f;
+        //float maxDashTime = 1.0f;
         float dashTime = maxDashTime;
         Vector3 d = new Vector3(dir.x * dashDistance, dir.y * dashDistance, this.transform.position.z);
         while(this.transform.position != d && dashTime > 0)
         {
-            this.transform.position = Vector3.MoveTowards(this.transform.position, d, (dashDistance / DashTime) * Time.fixedDeltaTime);
+            this.transform.position = Vector3.MoveTowards(this.transform.position, d, (dashDistance / maxDashTime) * Time.fixedDeltaTime);
             dashTime -= Time.fixedDeltaTime;
             yield return new WaitForFixedUpdate();
         }
+        stateTransition(State.IDLE);
     }
 
     void runto(GameObject player)

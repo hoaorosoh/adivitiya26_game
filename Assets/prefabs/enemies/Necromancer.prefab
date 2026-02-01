@@ -82,7 +82,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a3ae90e285581c46a9d0fe9cee65e68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyCombat
-  damage: 1
+  damage: 2
 --- !u!1 &6548881063130374961
 GameObject:
   m_ObjectHideFlags: 0
@@ -211,3 +211,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12f5e55e9115020479831a23503ac3a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  speed: 1
+  dashDistance: 6
+  maxDashTime: 1
+  bulletSpeed: 1
+  attackCooldown: 1
+  mageBullet: {fileID: 3241881138898377013, guid: 7ebc250a606cd964e8907ed7f87a1a1f, type: 3}
