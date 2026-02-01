@@ -637,7 +637,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4c3434add9fc3d43a1b347ce6cac0a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  waitTime: 6
+  waitTime: 7
+  meow: MainScene
 --- !u!4 &2013620760
 Transform:
   m_ObjectHideFlags: 0
