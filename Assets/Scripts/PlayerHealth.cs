@@ -20,7 +20,7 @@ public class PlayerHealth : MonoBehaviour
         if (collision == null) return;
         if (collision.CompareTag("DamageSource"))
         {
-            Debug.Log(collision);
+            //Debug.Log(collision);
             ChangeHealth(-collision.gameObject.GetComponent<EnemyCombat>().damage);
         }
     }
