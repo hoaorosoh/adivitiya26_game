@@ -293,7 +293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a3ae90e285581c46a9d0fe9cee65e68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyCombat
-  damage: 1
+  damage: 2
 --- !u!1 &5469076807044001071
 GameObject:
   m_ObjectHideFlags: 0
@@ -445,7 +445,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 10
+  m_Radius: 30
 --- !u!114 &8021423424602395568
 MonoBehaviour:
   m_ObjectHideFlags: 0
