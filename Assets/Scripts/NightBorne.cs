@@ -3,15 +3,96 @@ using UnityEngine;
 public class NightBorne : MonoBehaviour
 {
     Animator anim;
+    public GameObject hitbox1, hitbox2;
+    public float speed = 0.0f;
+    const float attackRange = 2.0f;
+    GameObject player = null;
+
+    private enum State
+    {
+        IDLE, RUNNING, ATTACKING, HURT, DYING
+    }
 
     private void Start()
     {
         anim = GetComponent<Animator>();
+        hitbox2.SetActive(false);
     }
 
     private void Update()
     {
-        AnimationDebug();
+        //AnimationDebug();
+    }
+
+    private void FixedUpdate()
+    {
+        if (player != null) Behaviour(player);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            player = collision.gameObject;
+        }
+    }
+
+    void Behaviour(GameObject player)
+    {
+        if (player == null) { return; }
+        if (
+            (player.transform.position
+            - this.transform.position).sqrMagnitude
+            > attackRange)
+        {
+            runto(player);
+        }
+    }
+
+    void stateTransition(State s)
+    {
+        return;
+    }
+
+    void runto(GameObject player)
+    {
+        if (player == null) { return; }
+        stateTransition(State.RUNNING);
+        if (this.transform.position.y > player.transform.position.y)
+        {
+            this.transform.position = new Vector3(
+                this.transform.position.x,
+                this.transform.position.y - (speed * Time.fixedDeltaTime),
+                this.transform.position.z);
+        } else if (this.transform.position.y < player.transform.position.y)
+        {
+            this.transform.position = new Vector3(
+                this.transform.position.x,
+                this.transform.position.y + (speed * Time.fixedDeltaTime),
+                this.transform.position.z);
+        }
+        else if (this.transform.position.x > player.transform.position.x)
+        {
+            this.transform.position = new Vector3(
+                this.transform.position.x - (speed * Time.fixedDeltaTime),
+                this.transform.position.y,
+                this.transform.position.z);
+        }
+        else if (this.transform.position.x < player.transform.position.x)
+        {
+            this.transform.position = new Vector3(
+                this.transform.position.x + (speed * Time.fixedDeltaTime),
+                this.transform.position.y,
+                this.transform.position.z);
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            player = null;
+        }
     }
 
     void AnimationDebug()
