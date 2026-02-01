@@ -172,7 +172,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df5cd374e6426854aa7b98442c8da2f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  damage: 1
   speed: 5
   facingDirection: 1
   rb: {fileID: 5334057516784010346}
