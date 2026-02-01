@@ -136,7 +136,7 @@ MonoBehaviour:
   attackLanded: {fileID: -3074926159877256613, guid: 9e83660ff70952b4aaf1adf866a099a1, type: 3}
   speed: 4
   attackCooldown: 1.5
-  attackRange: 3
+  attackRange: 4
 --- !u!50 &7839131864581386295
 Rigidbody2D:
   serializedVersion: 5
