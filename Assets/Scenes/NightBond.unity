@@ -3199,17 +3199,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1150048137078167500, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 2683675585332090451, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: m_Name
       value: NightBorne
       objectReference: {fileID: 0}
     - target: {fileID: 3777460844028595801, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -54.15
+      value: -49.62
       objectReference: {fileID: 0}
     - target: {fileID: 3777460844028595801, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 71.38
+      value: 67.8
       objectReference: {fileID: 0}
     - target: {fileID: 3777460844028595801, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3246,6 +3250,18 @@ PrefabInstance:
     - target: {fileID: 4779916381447606600, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: m_SortingOrder
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839131864581386295, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839131864581386295, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839131864581386295, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

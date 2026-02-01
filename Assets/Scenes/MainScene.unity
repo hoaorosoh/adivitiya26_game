@@ -86507,7 +86507,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 515717135346063173, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: orthographic size
-      value: 7.5
+      value: 8.4375
       objectReference: {fileID: 0}
     - target: {fileID: 3758090768405842910, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: m_LocalPosition.x
@@ -86556,7 +86556,7 @@ PrefabInstance:
     - target: {fileID: 8120040561981600045, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: BoundingShape2D
       value: 
-      objectReference: {fileID: 128643069}
+      objectReference: {fileID: 0}
     - target: {fileID: 9157482323429772709, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: Target.TrackingTarget
       value: 
