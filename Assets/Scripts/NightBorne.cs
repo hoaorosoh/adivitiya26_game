@@ -1,11 +1,15 @@
 //using UnityEditor.Tilemaps;
+using System;
 using System.Collections;
+using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
 public class NightBorne : MonoBehaviour
 {
     Animator anim;
     public GameObject hitbox1, hitbox2;
+    public Sprite attackLanded;
+    SpriteRenderer spreet;
     public float speed = 1.0f;
     public float attackCooldown = 1.0f;
     bool isAttacking = false;
@@ -22,6 +26,7 @@ public class NightBorne : MonoBehaviour
 
     private void Start()
     {
+        spreet = this.gameObject.GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
         hitbox2.SetActive(false);
     }
@@ -54,10 +59,20 @@ public class NightBorne : MonoBehaviour
             transform.localScale.z);
     }
 
+    bool IsCurrentSpriteEqualToAttackLanded()
+    {
+        return spreet.sprite == attackLanded;
+    }
+
     IEnumerator Attack()
     {
         isAttacking = true;
+        yield return new WaitUntil(IsCurrentSpriteEqualToAttackLanded);
+        Debug.Log("meow");
         hitbox2.SetActive(true);
+        yield return new WaitForSeconds(0.1f);
+        hitbox2.SetActive(false);
+        stateTransition(State.IDLE);
         yield return new WaitForSeconds(attackCooldown);
         isAttacking = false;
     }
@@ -146,7 +161,7 @@ public class NightBorne : MonoBehaviour
     void runto(GameObject player)
     {
         if (player == null) { return; }
-        Debug.Log("running");
+        //Debug.Log("running");
         stateTransition(State.RUNNING);
         if (Mathf.Round(this.transform.position.y) > Mathf.Round(player.transform.position.y))
         {

@@ -133,8 +133,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   hitbox1: {fileID: 5469076807044001071}
   hitbox2: {fileID: 5266708043654275869}
+  attackLanded: {fileID: -3074926159877256613, guid: 9e83660ff70952b4aaf1adf866a099a1, type: 3}
   speed: 4
-  attackCooldown: 1
+  attackCooldown: 1.5
   attackRange: 3
 --- !u!58 &7883144138529174197
 CircleCollider2D:
