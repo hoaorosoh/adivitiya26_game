@@ -4,7 +4,7 @@ public class NightBorne : MonoBehaviour
 {
     Animator anim;
     public GameObject hitbox1, hitbox2;
-    public float speed = 0.0f;
+    public float speed = 1.0f;
     const float attackRange = 2.0f;
     GameObject player = null;
 
@@ -33,6 +33,7 @@ public class NightBorne : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            Debug.Log("PLayer entered");
             player = collision.gameObject;
         }
     }
@@ -57,14 +58,17 @@ public class NightBorne : MonoBehaviour
     void runto(GameObject player)
     {
         if (player == null) { return; }
+        Debug.Log("running");
         stateTransition(State.RUNNING);
-        if (this.transform.position.y > player.transform.position.y)
+        if (Mathf.Round(this.transform.position.y) > Mathf.Round(player.transform.position.y))
         {
+            Debug.Log("PLayer is Under");
+            Debug.Log(player.transform.position);
             this.transform.position = new Vector3(
                 this.transform.position.x,
                 this.transform.position.y - (speed * Time.fixedDeltaTime),
                 this.transform.position.z);
-        } else if (this.transform.position.y < player.transform.position.y)
+        } else if (Mathf.Round(this.transform.position.y) < Mathf.Round(player.transform.position.y))
         {
             this.transform.position = new Vector3(
                 this.transform.position.x,
@@ -91,6 +95,7 @@ public class NightBorne : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            Debug.Log("PLayer exited");
             player = null;
         }
     }
