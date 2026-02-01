@@ -448,7 +448,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -462,7 +462,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -485,7 +485,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -514,12 +514,12 @@ TextureImporter:
       name: Necromancer Anim_0
       rect:
         serializedVersion: 2
-        x: 61
-        y: 806
-        width: 8
-        height: 8
+        x: 220
+        y: 780
+        width: 45
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -536,12 +536,12 @@ TextureImporter:
       name: Necromancer Anim_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 780
-        width: 41
-        height: 54
+        x: 381
+        y: 783
+        width: 45
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -558,12 +558,12 @@ TextureImporter:
       name: Necromancer Anim_2
       rect:
         serializedVersion: 2
-        x: 221
-        y: 807
-        width: 8
-        height: 8
+        x: 540
+        y: 784
+        width: 45
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -580,12 +580,12 @@ TextureImporter:
       name: Necromancer Anim_3
       rect:
         serializedVersion: 2
-        x: 224
-        y: 781
-        width: 40
-        height: 55
+        x: 734
+        y: 837
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -602,12 +602,12 @@ TextureImporter:
       name: Necromancer Anim_4
       rect:
         serializedVersion: 2
-        x: 381
-        y: 810
-        width: 8
-        height: 8
+        x: 860
+        y: 783
+        width: 45
+        height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -624,12 +624,12 @@ TextureImporter:
       name: Necromancer Anim_5
       rect:
         serializedVersion: 2
-        x: 384
-        y: 783
-        width: 41
-        height: 55
+        x: 60
+        y: 780
+        width: 46
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -646,12 +646,12 @@ TextureImporter:
       name: Necromancer Anim_6
       rect:
         serializedVersion: 2
-        x: 541
-        y: 812
-        width: 8
-        height: 8
+        x: 701
+        y: 784
+        width: 45
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -668,12 +668,12 @@ TextureImporter:
       name: Necromancer Anim_7
       rect:
         serializedVersion: 2
-        x: 544
-        y: 784
-        width: 41
-        height: 55
+        x: 1021
+        y: 780
+        width: 45
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -690,12 +690,12 @@ TextureImporter:
       name: Necromancer Anim_8
       rect:
         serializedVersion: 2
-        x: 701
-        y: 813
-        width: 8
-        height: 8
+        x: 1180
+        y: 780
+        width: 45
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -712,12 +712,12 @@ TextureImporter:
       name: Necromancer Anim_9
       rect:
         serializedVersion: 2
-        x: 704
-        y: 784
-        width: 41
-        height: 56
+        x: 64
+        y: 651
+        width: 42
+        height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -734,12 +734,12 @@ TextureImporter:
       name: Necromancer Anim_10
       rect:
         serializedVersion: 2
-        x: 861
-        y: 813
-        width: 8
-        height: 8
+        x: 224
+        y: 650
+        width: 42
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -756,12 +756,12 @@ TextureImporter:
       name: Necromancer Anim_11
       rect:
         serializedVersion: 2
-        x: 864
-        y: 783
-        width: 41
-        height: 58
+        x: 252
+        y: 696
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -778,12 +778,12 @@ TextureImporter:
       name: Necromancer Anim_12
       rect:
         serializedVersion: 2
-        x: 1021
-        y: 811
-        width: 8
-        height: 8
+        x: 384
+        y: 650
+        width: 42
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -800,12 +800,12 @@ TextureImporter:
       name: Necromancer Anim_13
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 781
+        x: 544
+        y: 647
         width: 41
-        height: 53
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -822,12 +822,12 @@ TextureImporter:
       name: Necromancer Anim_14
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 809
-        width: 8
-        height: 8
+        x: 705
+        y: 648
+        width: 41
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -844,12 +844,12 @@ TextureImporter:
       name: Necromancer Anim_15
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 780
-        width: 41
-        height: 53
+        x: 730
+        y: 695
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -866,12 +866,12 @@ TextureImporter:
       name: Necromancer Anim_16
       rect:
         serializedVersion: 2
-        x: 65
-        y: 652
-        width: 40
-        height: 47
+        x: 864
+        y: 650
+        width: 41
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -888,12 +888,12 @@ TextureImporter:
       name: Necromancer Anim_17
       rect:
         serializedVersion: 2
-        x: 225
-        y: 651
-        width: 40
-        height: 49
+        x: 888
+        y: 695
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -910,12 +910,12 @@ TextureImporter:
       name: Necromancer Anim_18
       rect:
         serializedVersion: 2
-        x: 385
-        y: 650
-        width: 40
-        height: 46
+        x: 1025
+        y: 651
+        width: 41
+        height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -932,12 +932,12 @@ TextureImporter:
       name: Necromancer Anim_19
       rect:
         serializedVersion: 2
-        x: 545
-        y: 648
-        width: 40
-        height: 49
+        x: 1184
+        y: 652
+        width: 43
+        height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -954,12 +954,12 @@ TextureImporter:
       name: Necromancer Anim_20
       rect:
         serializedVersion: 2
-        x: 705
-        y: 649
-        width: 40
-        height: 49
+        x: 1695
+        y: 622
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -976,12 +976,12 @@ TextureImporter:
       name: Necromancer Anim_21
       rect:
         serializedVersion: 2
-        x: 865
-        y: 650
-        width: 40
-        height: 49
+        x: 1855
+        y: 626
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -998,12 +998,12 @@ TextureImporter:
       name: Necromancer Anim_22
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 652
-        width: 40
-        height: 45
+        x: 1341
+        y: 529
+        width: 62
+        height: 89
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1020,12 +1020,12 @@ TextureImporter:
       name: Necromancer Anim_23
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 653
-        width: 41
-        height: 45
+        x: 1536
+        y: 615
+        width: 4
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1042,12 +1042,12 @@ TextureImporter:
       name: Necromancer Anim_24
       rect:
         serializedVersion: 2
-        x: 61
-        y: 550
-        width: 8
-        height: 8
+        x: 1855
+        y: 611
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1064,12 +1064,12 @@ TextureImporter:
       name: Necromancer Anim_25
       rect:
         serializedVersion: 2
-        x: 64
-        y: 524
-        width: 40
-        height: 53
+        x: 1021
+        y: 529
+        width: 43
+        height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1086,12 +1086,12 @@ TextureImporter:
       name: Necromancer Anim_26
       rect:
         serializedVersion: 2
-        x: 221
-        y: 551
-        width: 8
-        height: 8
+        x: 1500
+        y: 528
+        width: 51
+        height: 81
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1108,12 +1108,12 @@ TextureImporter:
       name: Necromancer Anim_27
       rect:
         serializedVersion: 2
-        x: 224
-        y: 525
-        width: 38
-        height: 58
+        x: 1681
+        y: 602
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1130,12 +1130,12 @@ TextureImporter:
       name: Necromancer Anim_28
       rect:
         serializedVersion: 2
-        x: 381
-        y: 552
-        width: 8
-        height: 8
+        x: 1695
+        y: 607
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1152,12 +1152,12 @@ TextureImporter:
       name: Necromancer Anim_29
       rect:
         serializedVersion: 2
-        x: 384
-        y: 526
-        width: 39
-        height: 64
+        x: 1709
+        y: 602
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1174,12 +1174,12 @@ TextureImporter:
       name: Necromancer Anim_30
       rect:
         serializedVersion: 2
-        x: 541
-        y: 553
-        width: 8
-        height: 8
+        x: 1839
+        y: 605
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1196,12 +1196,12 @@ TextureImporter:
       name: Necromancer Anim_31
       rect:
         serializedVersion: 2
-        x: 544
-        y: 527
-        width: 39
-        height: 75
+        x: 1872
+        y: 605
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1218,12 +1218,12 @@ TextureImporter:
       name: Necromancer Anim_32
       rect:
         serializedVersion: 2
-        x: 701
-        y: 554
-        width: 8
-        height: 8
+        x: 381
+        y: 525
+        width: 42
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1240,12 +1240,12 @@ TextureImporter:
       name: Necromancer Anim_33
       rect:
         serializedVersion: 2
-        x: 704
-        y: 528
-        width: 40
-        height: 74
+        x: 540
+        y: 526
+        width: 44
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1262,12 +1262,12 @@ TextureImporter:
       name: Necromancer Anim_34
       rect:
         serializedVersion: 2
-        x: 861
-        y: 555
-        width: 8
-        height: 8
+        x: 701
+        y: 528
+        width: 43
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1284,12 +1284,12 @@ TextureImporter:
       name: Necromancer Anim_35
       rect:
         serializedVersion: 2
-        x: 864
+        x: 860
         y: 529
-        width: 40
+        width: 45
         height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1306,12 +1306,12 @@ TextureImporter:
       name: Necromancer Anim_36
       rect:
         serializedVersion: 2
-        x: 1021
-        y: 556
-        width: 8
-        height: 8
+        x: 1180
+        y: 529
+        width: 45
+        height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1328,12 +1328,12 @@ TextureImporter:
       name: Necromancer Anim_37
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 530
-        width: 40
-        height: 77
+        x: 1560
+        y: 589
+        width: 9
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1350,12 +1350,12 @@ TextureImporter:
       name: Necromancer Anim_38
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 557
-        width: 8
-        height: 8
+        x: 1661
+        y: 526
+        width: 42
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1372,12 +1372,12 @@ TextureImporter:
       name: Necromancer Anim_39
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 530
-        width: 40
-        height: 76
+        x: 1710
+        y: 589
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1394,12 +1394,12 @@ TextureImporter:
       name: Necromancer Anim_40
       rect:
         serializedVersion: 2
-        x: 1341
-        y: 556
-        width: 8
-        height: 8
+        x: 1727
+        y: 589
+        width: 6
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1416,12 +1416,12 @@ TextureImporter:
       name: Necromancer Anim_41
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 529
-        width: 58
-        height: 88
+        x: 1819
+        y: 589
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1438,12 +1438,12 @@ TextureImporter:
       name: Necromancer Anim_42
       rect:
         serializedVersion: 2
-        x: 1501
-        y: 555
-        width: 8
-        height: 8
+        x: 1835
+        y: 589
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1460,12 +1460,12 @@ TextureImporter:
       name: Necromancer Anim_43
       rect:
         serializedVersion: 2
-        x: 1504
-        y: 528
-        width: 64
-        height: 95
+        x: 1876
+        y: 589
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1482,12 +1482,12 @@ TextureImporter:
       name: Necromancer Anim_44
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 553
-        width: 8
-        height: 8
+        x: 1892
+        y: 590
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1504,12 +1504,12 @@ TextureImporter:
       name: Necromancer Anim_45
       rect:
         serializedVersion: 2
-        x: 1663
-        y: 527
-        width: 69
-        height: 99
+        x: 60
+        y: 524
+        width: 44
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1526,12 +1526,12 @@ TextureImporter:
       name: Necromancer Anim_46
       rect:
         serializedVersion: 2
-        x: 1820
-        y: 526
-        width: 75
-        height: 103
+        x: 220
+        y: 525
+        width: 42
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1548,12 +1548,12 @@ TextureImporter:
       name: Necromancer Anim_47
       rect:
         serializedVersion: 2
-        x: 1821
-        y: 552
-        width: 8
-        height: 8
+        x: 1709
+        y: 577
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1570,12 +1570,12 @@ TextureImporter:
       name: Necromancer Anim_48
       rect:
         serializedVersion: 2
-        x: 1981
-        y: 551
-        width: 8
-        height: 8
+        x: 1820
+        y: 525
+        width: 43
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1592,12 +1592,12 @@ TextureImporter:
       name: Necromancer Anim_49
       rect:
         serializedVersion: 2
-        x: 1984
-        y: 525
-        width: 40
-        height: 51
+        x: 1872
+        y: 574
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1614,12 +1614,12 @@ TextureImporter:
       name: Necromancer Anim_50
       rect:
         serializedVersion: 2
-        x: 61
-        y: 422
-        width: 8
-        height: 8
+        x: 1981
+        y: 525
+        width: 44
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1636,12 +1636,12 @@ TextureImporter:
       name: Necromancer Anim_51
       rect:
         serializedVersion: 2
-        x: 64
-        y: 396
-        width: 40
-        height: 53
+        x: 60
+        y: 395
+        width: 44
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1658,12 +1658,12 @@ TextureImporter:
       name: Necromancer Anim_52
       rect:
         serializedVersion: 2
-        x: 221
-        y: 423
-        width: 8
-        height: 8
+        x: 220
+        y: 396
+        width: 44
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1680,12 +1680,12 @@ TextureImporter:
       name: Necromancer Anim_53
       rect:
         serializedVersion: 2
-        x: 224
-        y: 397
-        width: 39
-        height: 58
+        x: 381
+        y: 398
+        width: 42
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1702,12 +1702,12 @@ TextureImporter:
       name: Necromancer Anim_54
       rect:
         serializedVersion: 2
-        x: 381
-        y: 424
-        width: 8
-        height: 8
+        x: 540
+        y: 399
+        width: 44
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1724,12 +1724,12 @@ TextureImporter:
       name: Necromancer Anim_55
       rect:
         serializedVersion: 2
-        x: 384
-        y: 398
-        width: 39
-        height: 64
+        x: 701
+        y: 399
+        width: 43
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1746,12 +1746,12 @@ TextureImporter:
       name: Necromancer Anim_56
       rect:
         serializedVersion: 2
-        x: 541
-        y: 425
-        width: 8
-        height: 8
+        x: 860
+        y: 400
+        width: 45
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1768,12 +1768,12 @@ TextureImporter:
       name: Necromancer Anim_57
       rect:
         serializedVersion: 2
-        x: 544
-        y: 399
-        width: 39
-        height: 75
+        x: 1021
+        y: 402
+        width: 43
+        height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1790,12 +1790,12 @@ TextureImporter:
       name: Necromancer Anim_58
       rect:
         serializedVersion: 2
-        x: 701
-        y: 426
-        width: 8
-        height: 8
+        x: 1180
+        y: 402
+        width: 45
+        height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1812,12 +1812,12 @@ TextureImporter:
       name: Necromancer Anim_59
       rect:
         serializedVersion: 2
-        x: 704
+        x: 1341
         y: 400
-        width: 40
-        height: 74
+        width: 44
+        height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1834,12 +1834,12 @@ TextureImporter:
       name: Necromancer Anim_60
       rect:
         serializedVersion: 2
-        x: 861
-        y: 427
-        width: 8
-        height: 8
+        x: 1500
+        y: 399
+        width: 45
+        height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1856,12 +1856,12 @@ TextureImporter:
       name: Necromancer Anim_61
       rect:
         serializedVersion: 2
-        x: 864
-        y: 401
-        width: 40
-        height: 74
+        x: 1661
+        y: 399
+        width: 42
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1878,12 +1878,12 @@ TextureImporter:
       name: Necromancer Anim_62
       rect:
         serializedVersion: 2
-        x: 1021
-        y: 428
-        width: 8
-        height: 8
+        x: 1820
+        y: 398
+        width: 43
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1900,12 +1900,12 @@ TextureImporter:
       name: Necromancer Anim_63
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 402
-        width: 40
-        height: 77
+        x: 1981
+        y: 396
+        width: 44
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1922,12 +1922,12 @@ TextureImporter:
       name: Necromancer Anim_64
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 429
-        width: 8
-        height: 8
+        x: 734
+        y: 326
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1944,12 +1944,12 @@ TextureImporter:
       name: Necromancer Anim_65
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 402
-        width: 40
-        height: 76
+        x: 859
+        y: 274
+        width: 46
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1966,12 +1966,12 @@ TextureImporter:
       name: Necromancer Anim_66
       rect:
         serializedVersion: 2
-        x: 1341
-        y: 428
-        width: 8
-        height: 8
+        x: 1018
+        y: 274
+        width: 48
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1988,12 +1988,12 @@ TextureImporter:
       name: Necromancer Anim_67
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 401
-        width: 40
-        height: 77
+        x: 1177
+        y: 274
+        width: 48
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2010,12 +2010,12 @@ TextureImporter:
       name: Necromancer Anim_68
       rect:
         serializedVersion: 2
-        x: 1501
-        y: 427
-        width: 8
-        height: 8
+        x: 1497
+        y: 273
+        width: 48
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2032,12 +2032,12 @@ TextureImporter:
       name: Necromancer Anim_69
       rect:
         serializedVersion: 2
-        x: 1504
-        y: 400
-        width: 40
-        height: 76
+        x: 1694
+        y: 325
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2054,12 +2054,12 @@ TextureImporter:
       name: Necromancer Anim_70
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 425
-        width: 8
-        height: 8
+        x: 1855
+        y: 326
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2076,12 +2076,12 @@ TextureImporter:
       name: Necromancer Anim_71
       rect:
         serializedVersion: 2
-        x: 1664
-        y: 399
-        width: 39
-        height: 75
+        x: 2014
+        y: 327
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2098,12 +2098,12 @@ TextureImporter:
       name: Necromancer Anim_72
       rect:
         serializedVersion: 2
-        x: 1821
-        y: 424
-        width: 8
-        height: 8
+        x: 2175
+        y: 329
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2120,12 +2120,12 @@ TextureImporter:
       name: Necromancer Anim_73
       rect:
         serializedVersion: 2
-        x: 1824
-        y: 398
-        width: 38
-        height: 58
+        x: 60
+        y: 267
+        width: 46
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2142,12 +2142,12 @@ TextureImporter:
       name: Necromancer Anim_74
       rect:
         serializedVersion: 2
-        x: 1981
-        y: 423
-        width: 8
-        height: 8
+        x: 220
+        y: 269
+        width: 45
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2164,12 +2164,12 @@ TextureImporter:
       name: Necromancer Anim_75
       rect:
         serializedVersion: 2
-        x: 1984
-        y: 397
-        width: 40
-        height: 51
+        x: 378
+        y: 269
+        width: 48
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2186,12 +2186,12 @@ TextureImporter:
       name: Necromancer Anim_76
       rect:
         serializedVersion: 2
-        x: 64
-        y: 268
-        width: 41
-        height: 54
+        x: 539
+        y: 270
+        width: 46
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2208,12 +2208,12 @@ TextureImporter:
       name: Necromancer Anim_77
       rect:
         serializedVersion: 2
-        x: 220
-        y: 269
-        width: 44
-        height: 55
+        x: 698
+        y: 273
+        width: 48
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2230,12 +2230,12 @@ TextureImporter:
       name: Necromancer Anim_78
       rect:
         serializedVersion: 2
-        x: 379
-        y: 270
-        width: 46
-        height: 56
+        x: 1337
+        y: 273
+        width: 49
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2252,12 +2252,12 @@ TextureImporter:
       name: Necromancer Anim_79
       rect:
         serializedVersion: 2
-        x: 539
+        x: 1657
         y: 271
-        width: 46
-        height: 56
+        width: 49
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2274,12 +2274,12 @@ TextureImporter:
       name: Necromancer Anim_80
       rect:
         serializedVersion: 2
-        x: 698
-        y: 273
-        width: 47
-        height: 56
+        x: 1823
+        y: 270
+        width: 42
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2296,12 +2296,12 @@ TextureImporter:
       name: Necromancer Anim_81
       rect:
         serializedVersion: 2
-        x: 859
-        y: 274
-        width: 46
-        height: 57
+        x: 1982
+        y: 269
+        width: 44
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2318,12 +2318,12 @@ TextureImporter:
       name: Necromancer Anim_82
       rect:
         serializedVersion: 2
-        x: 1019
-        y: 307
-        width: 12
-        height: 18
+        x: 2139
+        y: 302
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2340,12 +2340,12 @@ TextureImporter:
       name: Necromancer Anim_83
       rect:
         serializedVersion: 2
-        x: 1022
-        y: 275
-        width: 43
-        height: 53
+        x: 2147
+        y: 269
+        width: 38
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2362,12 +2362,12 @@ TextureImporter:
       name: Necromancer Anim_84
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 308
-        width: 13
-        height: 20
+        x: 2304
+        y: 266
+        width: 42
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2384,12 +2384,12 @@ TextureImporter:
       name: Necromancer Anim_85
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 274
-        width: 44
-        height: 53
+        x: 2463
+        y: 265
+        width: 43
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2406,12 +2406,12 @@ TextureImporter:
       name: Necromancer Anim_86
       rect:
         serializedVersion: 2
-        x: 1338
-        y: 274
-        width: 47
-        height: 53
+        x: 2620
+        y: 266
+        width: 46
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2428,12 +2428,12 @@ TextureImporter:
       name: Necromancer Anim_87
       rect:
         serializedVersion: 2
-        x: 1498
-        y: 273
+        x: 60
+        y: 139
         width: 46
-        height: 55
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2450,12 +2450,12 @@ TextureImporter:
       name: Necromancer Anim_88
       rect:
         serializedVersion: 2
-        x: 1658
-        y: 272
-        width: 47
-        height: 57
+        x: 217
+        y: 144
+        width: 45
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2472,12 +2472,12 @@ TextureImporter:
       name: Necromancer Anim_89
       rect:
         serializedVersion: 2
-        x: 1824
-        y: 271
-        width: 41
-        height: 59
+        x: 378
+        y: 144
+        width: 45
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2494,12 +2494,12 @@ TextureImporter:
       name: Necromancer Anim_90
       rect:
         serializedVersion: 2
-        x: 1983
-        y: 270
-        width: 42
-        height: 61
+        x: 540
+        y: 143
+        width: 45
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2516,12 +2516,12 @@ TextureImporter:
       name: Necromancer Anim_91
       rect:
         serializedVersion: 2
-        x: 2140
-        y: 269
-        width: 45
-        height: 63
+        x: 701
+        y: 139
+        width: 43
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2538,12 +2538,12 @@ TextureImporter:
       name: Necromancer Anim_92
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 267
-        width: 41
-        height: 54
+        x: 536
+        y: 15
+        width: 45
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2560,12 +2560,12 @@ TextureImporter:
       name: Necromancer Anim_93
       rect:
         serializedVersion: 2
-        x: 2464
-        y: 266
-        width: 41
-        height: 53
+        x: 693
+        y: 18
+        width: 47
+        height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2582,12 +2582,12 @@ TextureImporter:
       name: Necromancer Anim_94
       rect:
         serializedVersion: 2
-        x: 2624
-        y: 267
-        width: 41
+        x: 852
+        y: 18
+        width: 46
         height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2604,12 +2604,12 @@ TextureImporter:
       name: Necromancer Anim_95
       rect:
         serializedVersion: 2
-        x: 61
-        y: 294
-        width: 8
-        height: 8
+        x: 1009
+        y: 15
+        width: 53
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2626,12 +2626,12 @@ TextureImporter:
       name: Necromancer Anim_96
       rect:
         serializedVersion: 2
-        x: 2621
-        y: 293
-        width: 8
-        height: 7
+        x: 1167
+        y: 26
+        width: 38
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2648,12 +2648,12 @@ TextureImporter:
       name: Necromancer Anim_97
       rect:
         serializedVersion: 2
-        x: 61
-        y: 166
-        width: 8
-        height: 8
+        x: 1211
+        y: 66
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2670,12 +2670,12 @@ TextureImporter:
       name: Necromancer Anim_98
       rect:
         serializedVersion: 2
-        x: 64
-        y: 140
-        width: 41
-        height: 53
+        x: 1216
+        y: 60
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2692,12 +2692,12 @@ TextureImporter:
       name: Necromancer Anim_99
       rect:
         serializedVersion: 2
-        x: 218
-        y: 169
-        width: 8
-        height: 8
+        x: 1325
+        y: 42
+        width: 38
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2714,12 +2714,12 @@ TextureImporter:
       name: Necromancer Anim_100
       rect:
         serializedVersion: 2
-        x: 221
-        y: 144
-        width: 41
-        height: 52
+        x: 1381
+        y: 66
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2736,12 +2736,12 @@ TextureImporter:
       name: Necromancer Anim_101
       rect:
         serializedVersion: 2
-        x: 378
-        y: 169
-        width: 8
-        height: 8
+        x: 60
+        y: 11
+        width: 44
+        height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2758,12 +2758,12 @@ TextureImporter:
       name: Necromancer Anim_102
       rect:
         serializedVersion: 2
-        x: 381
-        y: 144
-        width: 41
-        height: 51
+        x: 220
+        y: 14
+        width: 46
+        height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2780,12 +2780,12 @@ TextureImporter:
       name: Necromancer Anim_103
       rect:
         serializedVersion: 2
-        x: 540
-        y: 168
-        width: 8
-        height: 8
+        x: 378
+        y: 15
+        width: 42
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2802,12 +2802,12 @@ TextureImporter:
       name: Necromancer Anim_104
       rect:
         serializedVersion: 2
-        x: 543
-        y: 143
-        width: 41
-        height: 52
+        x: 422
+        y: 52
+        width: 5
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2824,12 +2824,12 @@ TextureImporter:
       name: Necromancer Anim_105
       rect:
         serializedVersion: 2
-        x: 701
-        y: 166
-        width: 8
-        height: 8
+        x: 581
+        y: 54
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2846,12 +2846,12 @@ TextureImporter:
       name: Necromancer Anim_106
       rect:
         serializedVersion: 2
-        x: 704
-        y: 140
-        width: 40
-        height: 53
+        x: 742
+        y: 55
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2868,12 +2868,12 @@ TextureImporter:
       name: Necromancer Anim_107
       rect:
         serializedVersion: 2
-        x: 64
-        y: 12
-        width: 39
+        x: 1196
+        y: 14
+        width: 25
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2890,12 +2890,12 @@ TextureImporter:
       name: Necromancer Anim_108
       rect:
         serializedVersion: 2
-        x: 220
-        y: 40
-        width: 8
-        height: 8
+        x: 1366
+        y: 43
+        width: 9
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2912,12 +2912,12 @@ TextureImporter:
       name: Necromancer Anim_109
       rect:
         serializedVersion: 2
-        x: 223
-        y: 15
-        width: 43
-        height: 48
+        x: 1378
+        y: 47
+        width: 5
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2934,12 +2934,12 @@ TextureImporter:
       name: Necromancer Anim_110
       rect:
         serializedVersion: 2
-        x: 378
-        y: 41
-        width: 8
-        height: 8
+        x: 422
+        y: 46
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2956,12 +2956,12 @@ TextureImporter:
       name: Necromancer Anim_111
       rect:
         serializedVersion: 2
-        x: 381
-        y: 16
-        width: 45
-        height: 47
+        x: 581
+        y: 47
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2978,12 +2978,12 @@ TextureImporter:
       name: Necromancer Anim_112
       rect:
         serializedVersion: 2
-        x: 536
-        y: 42
-        width: 9
-        height: 9
+        x: 742
+        y: 48
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3000,12 +3000,12 @@ TextureImporter:
       name: Necromancer Anim_113
       rect:
         serializedVersion: 2
-        x: 537
-        y: 16
-        width: 49
-        height: 49
+        x: 1333
+        y: 30
+        width: 20
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3022,12 +3022,12 @@ TextureImporter:
       name: Necromancer Anim_114
       rect:
         serializedVersion: 2
-        x: 693
-        y: 44
-        width: 10
-        height: 10
+        x: 1355
+        y: 38
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3044,12 +3044,12 @@ TextureImporter:
       name: Necromancer Anim_115
       rect:
         serializedVersion: 2
-        x: 694
-        y: 18
-        width: 40
-        height: 49
+        x: 1378
+        y: 38
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3066,12 +3066,12 @@ TextureImporter:
       name: Necromancer Anim_116
       rect:
         serializedVersion: 2
-        x: 728
-        y: 44
-        width: 18
-        height: 21
+        x: 1175
+        y: 17
+        width: 13
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3088,12 +3088,12 @@ TextureImporter:
       name: Necromancer Anim_117
       rect:
         serializedVersion: 2
-        x: 852
-        y: 25
-        width: 33
-        height: 41
+        x: 1191
+        y: 22
+        width: 5
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3110,12 +3110,12 @@ TextureImporter:
       name: Necromancer Anim_118
       rect:
         serializedVersion: 2
-        x: 866
-        y: 59
-        width: 19
-        height: 12
+        x: 1329
+        y: 26
+        width: 9
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3132,12 +3132,12 @@ TextureImporter:
       name: Necromancer Anim_119
       rect:
         serializedVersion: 2
-        x: 881
-        y: 23
-        width: 14
-        height: 26
+        x: 1341
+        y: 19
+        width: 5
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3154,12 +3154,12 @@ TextureImporter:
       name: Necromancer Anim_120
       rect:
         serializedVersion: 2
-        x: 884
-        y: 45
-        width: 14
-        height: 19
+        x: 1349
+        y: 21
+        width: 5
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3176,12 +3176,12 @@ TextureImporter:
       name: Necromancer Anim_121
       rect:
         serializedVersion: 2
-        x: 885
-        y: 54
-        width: 7
-        height: 6
+        x: 1358
+        y: 22
+        width: 11
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3198,12 +3198,12 @@ TextureImporter:
       name: Necromancer Anim_122
       rect:
         serializedVersion: 2
-        x: 1009
-        y: 48
-        width: 30
-        height: 27
+        x: 1374
+        y: 26
+        width: 5
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3220,12 +3220,12 @@ TextureImporter:
       name: Necromancer Anim_123
       rect:
         serializedVersion: 2
-        x: 1014
-        y: 18
-        width: 16
-        height: 31
+        x: 1333
+        y: 17
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3242,12 +3242,12 @@ TextureImporter:
       name: Necromancer Anim_124
       rect:
         serializedVersion: 2
-        x: 1019
-        y: 47
-        width: 13
-        height: 13
+        x: 1363
+        y: 14
+        width: 6
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3264,12 +3264,12 @@ TextureImporter:
       name: Necromancer Anim_125
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 62
-        width: 10
-        height: 7
+        x: 1370
+        y: 18
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3282,275 +3282,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_126
-      rect:
-        serializedVersion: 2
-        x: 1025
-        y: 44
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f988939d292c95630800000000000000
-      internalID: 3916375286940797087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_127
-      rect:
-        serializedVersion: 2
-        x: 1034
-        y: 57
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e44d171db6365680800000000000000
-      internalID: -8766759438865578775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_128
-      rect:
-        serializedVersion: 2
-        x: 1037
-        y: 47
-        width: 24
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b7abba8cd245aa90800000000000000
-      internalID: -7303357705723598926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_129
-      rect:
-        serializedVersion: 2
-        x: 1042
-        y: 20
-        width: 14
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81d22351f4f905550800000000000000
-      internalID: 6147588653367569688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_130
-      rect:
-        serializedVersion: 2
-        x: 1047
-        y: 45
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff6d3c660cb097600800000000000000
-      internalID: 466416957395293951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_131
-      rect:
-        serializedVersion: 2
-        x: 1167
-        y: 15
-        width: 217
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fbc68497cd4042250800000000000000
-      internalID: 5918861155245780159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_132
-      rect:
-        serializedVersion: 2
-        x: 1190
-        y: 51
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0ad4c1e1641bf9f0800000000000000
-      internalID: -433730528478963186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_133
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 38
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ade18c11053df080800000000000000
-      internalID: -9152100588857463386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_134
-      rect:
-        serializedVersion: 2
-        x: 862
-        y: 18
-        width: 12
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03a73ffc39d50c8c0800000000000000
-      internalID: -3981079181165102544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_135
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 16
-        width: 22
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfde9f944cc884220800000000000000
-      internalID: 2470379170295311869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_136
-      rect:
-        serializedVersion: 2
-        x: 1031
-        y: 40
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c1cebf09041c0d30800000000000000
-      internalID: 4398912965185552840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer Anim_137
-      rect:
-        serializedVersion: 2
-        x: 877
-        y: 19
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b618023b23a81cd0800000000000000
-      internalID: -2587138580006037834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 55ed9bf17ee1a144ab7102421401673f
     internalID: 0
     vertices: []
     indices: 
@@ -3558,7 +3294,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Necromancer Anim_0: -4512836991604794500
       Necromancer Anim_1: -5939947307968731306
@@ -3591,19 +3329,7 @@ TextureImporter:
       Necromancer Anim_123: 2456423495886864522
       Necromancer Anim_124: 1704969201514538364
       Necromancer Anim_125: -1180993473173026457
-      Necromancer Anim_126: 3916375286940797087
-      Necromancer Anim_127: -8766759438865578775
-      Necromancer Anim_128: -7303357705723598926
-      Necromancer Anim_129: 6147588653367569688
       Necromancer Anim_13: -5281275678066365441
-      Necromancer Anim_130: 466416957395293951
-      Necromancer Anim_131: 5918861155245780159
-      Necromancer Anim_132: -433730528478963186
-      Necromancer Anim_133: -9152100588857463386
-      Necromancer Anim_134: -3981079181165102544
-      Necromancer Anim_135: 2470379170295311869
-      Necromancer Anim_136: 4398912965185552840
-      Necromancer Anim_137: -2587138580006037834
       Necromancer Anim_14: 2385161994630813874
       Necromancer Anim_15: 14620674251050285
       Necromancer Anim_16: 8798369194246019544
