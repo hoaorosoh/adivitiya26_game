@@ -9,7 +9,7 @@ public class NightBorne : MonoBehaviour
     public float speed = 1.0f;
     public float attackCooldown = 1.0f;
     bool isAttacking = false;
-    const float attackRange = 2.0f;
+    public float attackRange = 3.0f;
     GameObject player = null;
     int facingDirection = 1;
 
@@ -99,6 +99,7 @@ public class NightBorne : MonoBehaviour
                 break;
             case State.ATTACKING:
                 anim.SetBool("IsAttacking", false);
+                hitbox2.SetActive(false);
                 break;
             case State.HURT:
                 anim.SetBool("IsHurt", false);
@@ -116,6 +117,7 @@ public class NightBorne : MonoBehaviour
         GoToIdle(currentState);
         //yield return new WaitForEndOfFrame();
         EnterState(s);
+        currentState = s;
     }
 
     void EnterState(State s)

@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 4779916381447606600}
   - component: {fileID: 1150048137078167500}
   - component: {fileID: 7883144138529174197}
+  - component: {fileID: 7839131864581386295}
+  - component: {fileID: 1577134341181278148}
   m_Layer: 0
   m_Name: NightBorne
   m_TagString: Enemy
@@ -132,7 +134,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   hitbox1: {fileID: 5469076807044001071}
   hitbox2: {fileID: 5266708043654275869}
-  speed: 1
+  speed: 4
+  attackCooldown: 1
+  attackRange: 3
 --- !u!58 &7883144138529174197
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -169,6 +173,46 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 9.71
+--- !u!50 &7839131864581386295
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2683675585332090451}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1577134341181278148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2683675585332090451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a3ae90e285581c46a9d0fe9cee65e68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyCombat
+  damage: 1
 --- !u!1 &5266708043654275869
 GameObject:
   m_ObjectHideFlags: 0

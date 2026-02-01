@@ -14,6 +14,14 @@ public class PlayerHealth : MonoBehaviour
         slider.value = currentHealth;
     }
 
+
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("DamageSource"))
+        {
+            ChangeHealth(-collision.gameObject.GetComponent<EnemyCombat>().damage);
+        }
+    }
     public void ChangeHealth(int amount)
     {
         currentHealth += amount;

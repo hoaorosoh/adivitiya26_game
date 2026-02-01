@@ -223,7 +223,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 515717135346063173, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: orthographic size
-      value: 0
+      value: 8.4375
       objectReference: {fileID: 0}
     - target: {fileID: 3758090768405842910, guid: c545594ee2268f1429ac2242b71deb89, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31990,7 +31990,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1150048137078167500, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: speed
-      value: 1
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2683675585332090451, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: m_Name
@@ -32035,6 +32035,10 @@ PrefabInstance:
     - target: {fileID: 3777460844028595801, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7883144138529174197, guid: 7d0cda8cb2aa5ac4893cebfc3230c3e4, type: 3}
+      propertyPath: m_Radius
+      value: 9.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
