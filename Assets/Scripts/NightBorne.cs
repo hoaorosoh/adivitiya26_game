@@ -1,3 +1,5 @@
+//using UnityEditor.Tilemaps;
+using System.Collections;
 using UnityEngine;
 
 public class NightBorne : MonoBehaviour
@@ -5,8 +7,13 @@ public class NightBorne : MonoBehaviour
     Animator anim;
     public GameObject hitbox1, hitbox2;
     public float speed = 1.0f;
+    public float attackCooldown = 1.0f;
+    bool isAttacking = false;
     const float attackRange = 2.0f;
     GameObject player = null;
+    int facingDirection = 1;
+
+    State currentState = State.IDLE;
 
     private enum State
     {
@@ -33,14 +40,35 @@ public class NightBorne : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("PLayer entered");
+            //Debug.Log("PLayer entered");
             player = collision.gameObject;
         }
+    }
+
+    void Flip()
+    {
+        facingDirection *= -1;
+        transform.localScale = new Vector3(
+            transform.localScale.x * -1,
+            transform.localScale.y,
+            transform.localScale.z);
+    }
+
+    IEnumerator Attack()
+    {
+        isAttacking = true;
+        hitbox2.SetActive(true);
+        yield return new WaitForSeconds(attackCooldown);
+        isAttacking = false;
     }
 
     void Behaviour(GameObject player)
     {
         if (player == null) { return; }
+
+        if (this.transform.position.x < player.transform.position.x && facingDirection == -1
+            || this.transform.position.x > player.transform.position.x && facingDirection == 1) { Flip(); }
+
         if (
             (player.transform.position
             - this.transform.position).sqrMagnitude
@@ -48,11 +76,69 @@ public class NightBorne : MonoBehaviour
         {
             runto(player);
         }
+        else
+        {
+            if (!isAttacking)
+            {
+                stateTransition(State.ATTACKING);
+                StartCoroutine(Attack());
+            }
+
+        }
+    }
+
+    void GoToIdle(State s)
+    {
+        switch (s)
+        {
+            case State.IDLE:
+                return;
+            //break;
+            case State.RUNNING:
+                anim.SetBool("IsRunning", false);
+                break;
+            case State.ATTACKING:
+                anim.SetBool("IsAttacking", false);
+                break;
+            case State.HURT:
+                anim.SetBool("IsHurt", false);
+                break;
+            case State.DYING:
+                anim.SetBool("IsDead", false);
+                break;
+
+        }
     }
 
     void stateTransition(State s)
     {
-        return;
+        if (s == currentState) return;
+        GoToIdle(currentState);
+        //yield return new WaitForEndOfFrame();
+        EnterState(s);
+    }
+
+    void EnterState(State s)
+    {
+        switch (s)
+        {
+            case State.IDLE: 
+                return;
+                //break;
+            case State.RUNNING:
+                anim.SetBool("IsRunning", true);
+                break;
+            case State.ATTACKING:
+                anim.SetBool("IsAttacking", true);
+                break;
+            case State.HURT:
+                anim.SetBool("IsHurt", true);
+                break;
+            case State.DYING:
+                anim.SetBool("IsDead", true);
+                break;
+
+        }
     }
 
     void runto(GameObject player)
@@ -95,8 +181,9 @@ public class NightBorne : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("PLayer exited");
+            //Debug.Log("PLayer exited");
             player = null;
+            stateTransition(State.IDLE);
         }
     }
 
