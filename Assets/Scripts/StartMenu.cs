@@ -2,15 +2,14 @@ using UnityEngine;
 
 public class StartMenu : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    public void Begin()
     {
-        
+        Utils.SwitchScene(1);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void End()
     {
-        
+        Application.Quit();
     }
 }

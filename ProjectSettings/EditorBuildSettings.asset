@@ -6,8 +6,29 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/_SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/StartMenu.unity
+    guid: 3e6233d98685bce4da65d3e33acf91b9
+  - enabled: 1
+    path: Assets/Scenes/Backstory.unity
+    guid: aa2b594643cfc8c4888adde8fc8438f9
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 161a926013843334ab078b6681dae33f
+  - enabled: 1
+    path: Assets/Scenes/UndeadPath.unity
+    guid: 4c7add72eb681ae4bb0d7b7d5d19f0ec
+  - enabled: 1
+    path: Assets/Scenes/NightBond.unity
+    guid: f538488edae9f6b4ca0a74ef3dacfcd3
+  - enabled: 1
+    path: Assets/Scenes/NecroBoss.unity
+    guid: 3bea87b0cee8b5b4eb4deab06b1e57f6
+  - enabled: 1
+    path: Assets/Scenes/WInScreen.unity
+    guid: d7e27c6e079f10c47b409388dc5e7adb
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 1772f9b0006cd7d458938d2e89c7ee46
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
