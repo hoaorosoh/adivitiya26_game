@@ -115886,7 +115886,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2863656170083683791, guid: 6c2cc1e124a5abc40803ceb7e8241eef, type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4362891614717367459, guid: 6c2cc1e124a5abc40803ceb7e8241eef, type: 3}
       propertyPath: m_Name
@@ -116057,6 +116057,10 @@ PrefabInstance:
     - target: {fileID: 6548881063130374961, guid: f7b382c136ff99247b5f50a7f67e6048, type: 3}
       propertyPath: m_Name
       value: Necromancer
+      objectReference: {fileID: 0}
+    - target: {fileID: 6548881063130374961, guid: f7b382c136ff99247b5f50a7f67e6048, type: 3}
+      propertyPath: m_TagString
+      value: DamageSource
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
