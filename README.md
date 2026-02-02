@@ -33,6 +33,7 @@ After a crash landing on an unknown planet, the player must survive by navigatin
 | Move Down | S / Down Arrow |
 | Move Left | A / Left Arrow |
 | Move Right | D / Right Arrow |
+| Dash | Space Bar |
 
 ---
 
