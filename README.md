@@ -59,7 +59,7 @@ No additional installation or configuration is required.
 
 ### Opening the Project
 
-1. Clone the repository:
-   ⁨```bash
-   git clone https://github.com/hoaorosoh/adivitiya26_game.git
+Clone the repository:
+⁨```bash
+git clone https://github.com/hoaorosoh/adivitiya26_game.git
 ```⁩
